@@ -1,0 +1,942 @@
+{
+  "2023_07_30": {
+    "Total flights": 37,
+    "easyJet Europe": {
+      "Total flights": 31,
+      "5027": {
+        "Departure": "06:00",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5077": {
+        "Departure": "06:00",
+        "IATA Code": "CTA",
+        "Destination": "Catania"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "9977": {
+        "Departure": "06:00",
+        "IATA Code": "CIY",
+        "Destination": "Comiso"
+      },
+      "5145": {
+        "Departure": "06:30",
+        "IATA Code": "NCE",
+        "Destination": "Nizza"
+      },
+      "5051": {
+        "Departure": "06:40",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "5301": {
+        "Departure": "07:05",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "5011": {
+        "Departure": "07:15",
+        "IATA Code": "PVK",
+        "Destination": "Preveza"
+      },
+      "5103": {
+        "Departure": "07:35",
+        "IATA Code": "VLC",
+        "Destination": "Valencia"
+      },
+      "5353": {
+        "Departure": "08:00",
+        "IATA Code": "BOJ",
+        "Destination": "Burgas"
+      },
+      "4632": {
+        "Departure": "09:55",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "5009": {
+        "Departure": "10:15",
+        "IATA Code": "CHQ",
+        "Destination": "Chania"
+      },
+      "7334": {
+        "Departure": "10:50",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5003": {
+        "Departure": "12:15",
+        "IATA Code": "CFU",
+        "Destination": "Korfu"
+      },
+      "5263": {
+        "Departure": "12:40",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "5055": {
+        "Departure": "13:05",
+        "IATA Code": "OLB",
+        "Destination": "Olbia"
+      },
+      "5333": {
+        "Departure": "13:05",
+        "IATA Code": "FNC",
+        "Destination": "Funchal"
+      },
+      "5071": {
+        "Departure": "14:20",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5141": {
+        "Departure": "15:00",
+        "IATA Code": "BOD",
+        "Destination": "Bordeaux Merignac"
+      },
+      "5247": {
+        "Departure": "15:10",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "5215": {
+        "Departure": "16:00",
+        "IATA Code": "SPU",
+        "Destination": "Split"
+      },
+      "5079": {
+        "Departure": "16:10",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      },
+      "8626": {
+        "Departure": "18:05",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5153": {
+        "Departure": "18:25",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "IATA Code": "GVA",
+        "Destination": "Genf"
+      },
+      "5187": {
+        "Departure": "19:10",
+        "IATA Code": "ZRH",
+        "Destination": "Z\u00fcrich"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5267": {
+        "Departure": "19:50",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "7338": {
+        "Departure": "20:10",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5073": {
+        "Departure": "21:00",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "8630": {
+        "Departure": "12:05",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "2934": {
+        "Departure": "16:35",
+        "IATA Code": "BRS",
+        "Destination": "Bristol"
+      },
+      "2604": {
+        "Departure": "17:25",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      },
+      "3262": {
+        "Departure": "21:40",
+        "IATA Code": "EDI",
+        "Destination": "Edinburgh"
+      },
+      "2202": {
+        "Departure": "22:15",
+        "IATA Code": "MAN",
+        "Destination": "Manchester"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:25",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      }
+    }
+  },
+  "2023_07_31": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5027": {
+        "Departure": "06:00",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5187": {
+        "Departure": "06:00",
+        "IATA Code": "ZRH",
+        "Destination": "Z\u00fcrich"
+      },
+      "5007": {
+        "Departure": "06:55",
+        "IATA Code": "HER",
+        "Destination": "Heraklion"
+      },
+      "5079": {
+        "Departure": "07:00",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "IATA Code": "GVA",
+        "Destination": "Genf"
+      },
+      "5361": {
+        "Departure": "07:10",
+        "IATA Code": "TIV",
+        "Destination": "Tivat"
+      },
+      "5077": {
+        "Departure": "07:25",
+        "IATA Code": "CTA",
+        "Destination": "Catania"
+      },
+      "5303": {
+        "Departure": "08:00",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "9153": {
+        "Departure": "09:00",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "5145": {
+        "Departure": "09:30",
+        "IATA Code": "NCE",
+        "Destination": "Nizza"
+      },
+      "2200": {
+        "Departure": "10:20",
+        "IATA Code": "MAN",
+        "Destination": "Manchester"
+      },
+      "5185": {
+        "Departure": "10:20",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      },
+      "7334": {
+        "Departure": "10:50",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5215": {
+        "Departure": "12:35",
+        "IATA Code": "SPU",
+        "Destination": "Split"
+      },
+      "5055": {
+        "Departure": "12:45",
+        "IATA Code": "OLB",
+        "Destination": "Olbia"
+      },
+      "5283": {
+        "Departure": "12:50",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "8622": {
+        "Departure": "13:05",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5009": {
+        "Departure": "13:40",
+        "IATA Code": "CHQ",
+        "Destination": "Chania"
+      },
+      "5071": {
+        "Departure": "14:20",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5351": {
+        "Departure": "14:40",
+        "IATA Code": "VAR",
+        "Destination": "Varna"
+      },
+      "5331": {
+        "Departure": "14:45",
+        "IATA Code": "OPO",
+        "Destination": "Porto"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "5029": {
+        "Departure": "15:35",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5365": {
+        "Departure": "16:50",
+        "IATA Code": "PRN",
+        "Destination": "Pristina International Airport"
+      },
+      "8626": {
+        "Departure": "17:50",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5153": {
+        "Departure": "18:20",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "5247": {
+        "Departure": "18:40",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      },
+      "7336": {
+        "Departure": "19:10",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "4266": {
+        "Departure": "19:50",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "4632": {
+        "Departure": "20:35",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "5073": {
+        "Departure": "21:00",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "2602": {
+        "Departure": "10:05",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      },
+      "8630": {
+        "Departure": "10:20",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "3162": {
+        "Departure": "14:25",
+        "IATA Code": "GLA",
+        "Destination": "Glasgow"
+      },
+      "2934": {
+        "Departure": "16:35",
+        "IATA Code": "BRS",
+        "Destination": "Bristol"
+      },
+      "3262": {
+        "Departure": "17:35",
+        "IATA Code": "EDI",
+        "Destination": "Edinburgh"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:10",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      }
+    }
+  },
+  "2023_08_01": {
+    "Total flights": 34,
+    "easyJet Europe": {
+      "Total flights": 31,
+      "5105": {
+        "Departure": "06:00",
+        "IATA Code": "AGP",
+        "Destination": "Malaga"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5281": {
+        "Departure": "06:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5007": {
+        "Departure": "07:00",
+        "IATA Code": "HER",
+        "Destination": "Heraklion"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "IATA Code": "FNC",
+        "Destination": "Funchal"
+      },
+      "5367": {
+        "Departure": "07:30",
+        "IATA Code": "LCA",
+        "Destination": "Larnaca"
+      },
+      "5005": {
+        "Departure": "07:55",
+        "IATA Code": "CFU",
+        "Destination": "Korfu"
+      },
+      "5303": {
+        "Departure": "08:00",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "5085": {
+        "Departure": "08:30",
+        "IATA Code": "VCE",
+        "Destination": "Venedig"
+      },
+      "5223": {
+        "Departure": "09:40",
+        "IATA Code": "ZAD",
+        "Destination": "Zadar"
+      },
+      "4266": {
+        "Departure": "10:35",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "5365": {
+        "Departure": "11:20",
+        "IATA Code": "PRN",
+        "Destination": "Pristina International Airport"
+      },
+      "5215": {
+        "Departure": "13:35",
+        "IATA Code": "SPU",
+        "Destination": "Split"
+      },
+      "5071": {
+        "Departure": "14:20",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5211": {
+        "Departure": "14:35",
+        "IATA Code": "PUY",
+        "Destination": "Pula"
+      },
+      "5351": {
+        "Departure": "14:35",
+        "IATA Code": "VAR",
+        "Destination": "Varna"
+      },
+      "7946": {
+        "Departure": "14:55",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5353": {
+        "Departure": "15:20",
+        "IATA Code": "BOJ",
+        "Destination": "Burgas"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "5145": {
+        "Departure": "15:35",
+        "IATA Code": "NCE",
+        "Destination": "Nizza"
+      },
+      "5027": {
+        "Departure": "17:00",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "IATA Code": "OLB",
+        "Destination": "Olbia"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "8624": {
+        "Departure": "18:10",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "IATA Code": "PSA",
+        "Destination": "Pisa"
+      },
+      "5221": {
+        "Departure": "18:45",
+        "IATA Code": "RJK",
+        "Destination": "Rijeka"
+      },
+      "5187": {
+        "Departure": "19:10",
+        "IATA Code": "ZRH",
+        "Destination": "Z\u00fcrich"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "7544": {
+        "Departure": "20:40",
+        "IATA Code": "FAO",
+        "Destination": "Faro"
+      },
+      "4634": {
+        "Departure": "20:55",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "5073": {
+        "Departure": "21:00",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8630": {
+        "Departure": "10:15",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "2602": {
+        "Departure": "10:25",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:20",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      }
+    }
+  },
+  "2023_08_02": {
+    "Total flights": 30,
+    "easyJet Europe": {
+      "Total flights": 28,
+      "5027": {
+        "Departure": "06:00",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5007": {
+        "Departure": "06:10",
+        "IATA Code": "HER",
+        "Destination": "Heraklion"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "IATA Code": "GVA",
+        "Destination": "Genf"
+      },
+      "5145": {
+        "Departure": "07:15",
+        "IATA Code": "NCE",
+        "Destination": "Nizza"
+      },
+      "5017": {
+        "Departure": "07:35",
+        "IATA Code": "KGS",
+        "Destination": "Kos"
+      },
+      "5009": {
+        "Departure": "07:40",
+        "IATA Code": "CHQ",
+        "Destination": "Chania"
+      },
+      "5247": {
+        "Departure": "07:50",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      },
+      "5013": {
+        "Departure": "09:20",
+        "IATA Code": "RHO",
+        "Destination": "Rhodos"
+      },
+      "5211": {
+        "Departure": "09:30",
+        "IATA Code": "PUY",
+        "Destination": "Pula"
+      },
+      "7334": {
+        "Departure": "10:50",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5113": {
+        "Departure": "11:20",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      },
+      "5217": {
+        "Departure": "12:25",
+        "IATA Code": "DBV",
+        "Destination": "Dubrovnik"
+      },
+      "5303": {
+        "Departure": "13:10",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "5003": {
+        "Departure": "14:05",
+        "IATA Code": "CFU",
+        "Destination": "Korfu"
+      },
+      "5213": {
+        "Departure": "14:05",
+        "IATA Code": "SPU",
+        "Destination": "Split"
+      },
+      "5071": {
+        "Departure": "14:20",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5053": {
+        "Departure": "15:25",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "5057": {
+        "Departure": "15:35",
+        "IATA Code": "CTA",
+        "Destination": "Catania"
+      },
+      "5103": {
+        "Departure": "15:35",
+        "IATA Code": "VLC",
+        "Destination": "Valencia"
+      },
+      "8626": {
+        "Departure": "17:45",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "5263": {
+        "Departure": "18:50",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "4632": {
+        "Departure": "20:40",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "5073": {
+        "Departure": "21:00",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "7338": {
+        "Departure": "22:00",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "2602": {
+        "Departure": "09:45",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      },
+      "8630": {
+        "Departure": "10:15",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  },
+  "2023_08_03": {
+    "Total flights": 35,
+    "easyJet Europe": {
+      "Total flights": 30,
+      "5027": {
+        "Departure": "06:00",
+        "IATA Code": "SKG",
+        "Destination": "Thessaloniki"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5105": {
+        "Departure": "06:25",
+        "IATA Code": "AGP",
+        "Destination": "Malaga"
+      },
+      "5281": {
+        "Departure": "06:25",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5003": {
+        "Departure": "06:30",
+        "IATA Code": "CFU",
+        "Destination": "Korfu"
+      },
+      "5007": {
+        "Departure": "06:50",
+        "IATA Code": "HER",
+        "Destination": "Heraklion"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "IATA Code": "FNC",
+        "Destination": "Funchal"
+      },
+      "5365": {
+        "Departure": "07:20",
+        "IATA Code": "PRN",
+        "Destination": "Pristina International Airport"
+      },
+      "5303": {
+        "Departure": "08:00",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "5145": {
+        "Departure": "09:30",
+        "IATA Code": "NCE",
+        "Destination": "Nizza"
+      },
+      "5011": {
+        "Departure": "10:50",
+        "IATA Code": "PVK",
+        "Destination": "Preveza"
+      },
+      "7334": {
+        "Departure": "10:50",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5301": {
+        "Departure": "12:40",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      },
+      "5353": {
+        "Departure": "13:00",
+        "IATA Code": "BOJ",
+        "Destination": "Burgas"
+      },
+      "5085": {
+        "Departure": "13:35",
+        "IATA Code": "VCE",
+        "Destination": "Venedig"
+      },
+      "5071": {
+        "Departure": "14:20",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5053": {
+        "Departure": "15:00",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "5055": {
+        "Departure": "15:30",
+        "IATA Code": "OLB",
+        "Destination": "Olbia"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "5211": {
+        "Departure": "16:00",
+        "IATA Code": "PUY",
+        "Destination": "Pula"
+      },
+      "5079": {
+        "Departure": "17:35",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "IATA Code": "PSA",
+        "Destination": "Pisa"
+      },
+      "8624": {
+        "Departure": "18:25",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5215": {
+        "Departure": "18:40",
+        "IATA Code": "SPU",
+        "Destination": "Split"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "7544": {
+        "Departure": "20:40",
+        "IATA Code": "FAO",
+        "Destination": "Faro"
+      },
+      "4634": {
+        "Departure": "21:00",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "5073": {
+        "Departure": "21:00",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 3,
+      "8630": {
+        "Departure": "10:15",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "2934": {
+        "Departure": "11:10",
+        "IATA Code": "BRS",
+        "Destination": "Bristol"
+      },
+      "2604": {
+        "Departure": "22:55",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 2,
+      "1188": {
+        "Departure": "17:40",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      },
+      "1190": {
+        "Departure": "21:10",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      }
+    }
+  }
+}
