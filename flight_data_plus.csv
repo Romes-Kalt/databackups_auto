@@ -3303,3 +3303,404 @@ DATE,FLIGHT_ID,DEP_ARR,FLIGHTNUM_MAIN,TIME,STATUS,DELAYED,DESTINATION_IATA,AIRLI
 2023_08_04,20230804FR 3306,ARR,FR 3306,23:00 Uhr,arrived,23:16 Uhr,BUD,FR,Budapest,Ryanair,---,Fri
 2023_08_04,20230804FR 3391,ARR,FR 3391,23:00 Uhr,arrived,22:58 Uhr,BGY,FR,Mailand BGY,Ryanair,---,Fri
 2023_08_04,20230804I2 3674,ARR,I2 3674,23:00 Uhr,arrived,22:52 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Fri
+2023_08_05,20230805SR 7288,DEP,SR 7288,05:30 Uhr,departed,on time,VAR,SDR,Varna,SUNDAIR,---,Sat
+2023_08_05,20230805AF 1135,DEP,AF 1135,06:00 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU5105,DEP,EJU5105,06:00 Uhr,departed,on time,AGP,EJU,Malaga,easyJet Europe,---,Sat
+2023_08_05,20230805FR 162,DEP,FR 162,06:00 Uhr,departed,on time,BRU,FR,Brüssel,Ryanair,---,Sat
+2023_08_05,20230805KL 1818,DEP,KL 1818,06:00 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805SR 4264,DEP,SR 4264,06:00 Uhr,departed,on time,KGS,SDR,Kos,SUNDAIR,---,Sat
+2023_08_05,20230805TP 531,DEP,TP 531,06:00 Uhr,departed,on time,LIS,TP,Lissabon,TAP Air Portugal,---,Sat
+2023_08_05,20230805EJU5211,DEP,EJU5211,06:05 Uhr,departed,on time,PUY,EJU,Pula,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8592,DEP,EW 8592,06:05 Uhr,departed,06:20 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805EW 8904,DEP,EW 8904,06:05 Uhr,departed,06:10 Uhr,LCA,EW,Larnaca,Eurowings,---,Sat
+2023_08_05,20230805FR 132,DEP,FR 132,06:05 Uhr,departed,on time,BCN,FR,Barcelona,Ryanair,---,Sat
+2023_08_05,20230805FR 314,DEP,FR 314,06:05 Uhr,departed,on time,OTP,FR,Bukarest,Ryanair,---,Sat
+2023_08_05,20230805EJU5213,DEP,EJU5213,06:10 Uhr,departed,on time,SPU,EJU,Split,easyJet Europe,---,Sat
+2023_08_05,20230805EW 5272,DEP,EW 5272,06:15 Uhr,departed,06:30 Uhr,AYT,EW,Antalya,Eurowings,---,Sat
+2023_08_05,20230805FR 110,DEP,FR 110,06:15 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805FR 253,DEP,FR 253,06:15 Uhr,departed,on time,FAO,FR,Faro,Ryanair,---,Sat
+2023_08_05,20230805EJU5065,DEP,EJU5065,06:20 Uhr,departed,on time,PSA,EJU,Pisa,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8968,DEP,EW 8968,06:20 Uhr,departed,on time,RJK,EW,Rijeka,Eurowings,---,Sat
+2023_08_05,20230805LH 1961,DEP,LH 1961,06:20 Uhr,departed,on time,MUC,LH,München,Lufthansa,OU5431 TP7725,Sat
+2023_08_05,20230805BA 8490,DEP,BA 8490,06:25 Uhr,departed,on time,LCY,BA,London City Airport,British Airways,---,Sat
+2023_08_05,20230805EW 8028,DEP,EW 8028,06:35 Uhr,departed,06:50 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Sat
+2023_08_05,20230805XQ 967,DEP,XQ 967,06:45 Uhr,departed,on time,ADB,XQ,Izmir ADB,Sun Express,---,Sat
+2023_08_05,20230805EJU5365,DEP,EJU5365,06:50 Uhr,departed,on time,PRN,EJU,Pristina International Airport,easyJet Europe,---,Sat
+2023_08_05,20230805FR 1142,DEP,FR 1142,06:50 Uhr,departed,on time,LIS,FR,Lissabon,Ryanair,---,Sat
+2023_08_05,20230805FR 401,DEP,FR 401,06:50 Uhr,departed,07:15 Uhr,VCE,FR,Venedig,Ryanair,---,Sat
+2023_08_05,20230805SN 2592,DEP,SN 2592,06:55 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,EY7227 HU8552 TP7491 UA9920,Sat
+2023_08_05,20230805EJU5027,DEP,EJU5027,07:00 Uhr,departed,on time,SKG,EJU,Thessaloniki,easyJet Europe,---,Sat
+2023_08_05,20230805FR 2535,DEP,FR 2535,07:00 Uhr,departed,on time,KRK,FR,Krakau,Ryanair,---,Sat
+2023_08_05,20230805LX 963,DEP,LX 963,07:00 Uhr,departed,07:20 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805OS 240,DEP,OS 240,07:00 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805TK 1728,DEP,TK 1728,07:00 Uhr,departed,06:50 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 1576,DEP,FR 1576,07:10 Uhr,departed,on time,TPS,FR,Trapani,Ryanair,---,Sat
+2023_08_05,20230805I2 3673,DEP,I2 3673,07:10 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,IB3673,Sat
+2023_08_05,20230805FI 519,DEP,FI 519,07:15 Uhr,departed,on time,KEF,FI,Reykjavik,Icelandair,---,Sat
+2023_08_05,20230805LH 1963,DEP,LH 1963,07:20 Uhr,departed,on time,MUC,LH,München,Lufthansa,A31581 OU5365 UA9182,Sat
+2023_08_05,20230805EJU5117,DEP,EJU5117,07:25 Uhr,departed,on time,MAH,EJU,Menorca,easyJet Europe,---,Sat
+2023_08_05,20230805BA 981,DEP,BA 981,07:35 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805EJU5013,DEP,EJU5013,07:40 Uhr,departed,on time,RHO,EJU,Rhodos,easyJet Europe,---,Sat
+2023_08_05,20230805LH 175,DEP,LH 175,07:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,AC9436 OU5463 SQ2207 TP7711,Sat
+2023_08_05,20230805IV 681,DEP,IV 681,07:50 Uhr,departed,on time,PRN,IV,Pristina International Airport,GP Aviation,---,Sat
+2023_08_05,20230805NMA6229,DEP,NMA6229,08:05 Uhr,departed,on time,HRG,NE,Hurghada,Nesma Airlines,---,Sat
+2023_08_05,20230805EJU5053,DEP,EJU5053,08:10 Uhr,departed,on time,NAP,EJU,Neapel,easyJet Europe,---,Sat
+2023_08_05,20230805FR 136,DEP,FR 136,08:10 Uhr,departed,on time,BLQ,FR,Bologna,Ryanair,---,Sat
+2023_08_05,20230805BT 212,DEP,BT 212,08:20 Uhr,departed,08:50 Uhr,RIX,BT,Riga,Air Baltic,---,Sat
+2023_08_05,20230805EJU4632,DEP,EJU4632,08:40 Uhr,departed,on time,CDG,EJU,Paris CDG,easyJet Europe,---,Sat
+2023_08_05,20230805LG 9472,DEP,LG 9472,08:45 Uhr,departed,on time,LUX,LG,Luxemburg,Luxair,LH6872,Sat
+2023_08_05,20230805LH 177,DEP,LH 177,08:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,NH6208 OU5465 SQ2017 UA9214 A31580 AC9118,Sat
+2023_08_05,20230805LH 1929,DEP,LH 1929,08:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,A31591 NH6086 TP7705 UA9296,Sat
+2023_08_05,20230805AY 1432,DEP,AY 1432,08:55 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Sat
+2023_08_05,20230805OS 224,DEP,OS 224,09:00 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805FR 3311,DEP,FR 3311,09:05 Uhr,departed,on time,BGY,FR,Mailand BGY,Ryanair,---,Sat
+2023_08_05,20230805EJU4076,DEP,EJU4076,09:20 Uhr,departed,on time,VCE,EJU,Venedig,easyJet Europe,---,Sat
+2023_08_05,20230805PC 5068,DEP,PC 5068,09:25 Uhr,departed,on time,AYT,PC,Antalya,Pegasus Airlines,---,Sat
+2023_08_05,20230805FT 3192,DEP,FT 3192,09:30 Uhr,departed,09:45 Uhr,HRG,FEG,Hurghada,FlyEgypt,---,Sat
+2023_08_05,20230805LX 975,DEP,LX 975,09:35 Uhr,departed,09:50 Uhr,ZRH,LX,Zürich,Swiss,SQ2913,Sat
+2023_08_05,20230805FR 216,DEP,FR 216,09:40 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805FR 2377,DEP,FR 2377,09:40 Uhr,departed,on time,EDI,FR,Edinburgh,Ryanair,---,Sat
+2023_08_05,20230805JU 351,DEP,JU 351,09:45 Uhr,departed,10:30 Uhr,BEG,JU,Belgrad,Air Serbia,---,Sat
+2023_08_05,20230805LH 1931,DEP,LH 1931,09:50 Uhr,departed,10:00 Uhr,MUC,LH,München,Lufthansa,AC9350 UA9208,Sat
+2023_08_05,20230805PC 5304,DEP,PC 5304,09:50 Uhr,departed,10:30 Uhr,ADB,PC,Izmir ADB,Pegasus Airlines,---,Sat
+2023_08_05,20230805UA 963,DEP,UA 963,09:50 Uhr,departed,on time,EWR,UA,New York EWR,United Airlines,---,Sat
+2023_08_05,20230805FR 1144,DEP,FR 1144,09:55 Uhr,departed,on time,MAN,FR,Manchester,Ryanair,---,Sat
+2023_08_05,20230805XQ 663,DEP,XQ 663,09:55 Uhr,departed,on time,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805QR 080,DEP,QR 080,10:00 Uhr,departed,on time,DOH,QR,Doha,Qatar Airways,---,Sat
+2023_08_05,20230805TK 1604,DEP,TK 1604,10:10 Uhr,departed,on time,ADA,TK,Adana,Turkish Airlines,---,Sat
+2023_08_05,20230805DY 1103,DEP,DY 1103,10:15 Uhr,departed,on time,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Sat
+2023_08_05,20230805EW 8988,DEP,EW 8988,10:15 Uhr,departed,on time,SPU,EW,Split,Eurowings,---,Sat
+2023_08_05,20230805FR 2527,DEP,FR 2527,10:15 Uhr,departed,on time,MAD,FR,Madrid,Ryanair,---,Sat
+2023_08_05,20230805DL 093,DEP,DL 093,10:20 Uhr,departed,on time,JFK,DL,New York JFK,Delta Air Lines,---,Sat
+2023_08_05,20230805EW 8680,DEP,EW 8680,10:25 Uhr,departed,11:00 Uhr,ZTH,EW,Zakinthos,Eurowings,---,Sat
+2023_08_05,20230805EI 333,DEP,EI 333,10:40 Uhr,departed,on time,DUB,EI,Dublin,Aer Lingus,---,Sat
+2023_08_05,20230805EJU7334,DEP,EJU7334,10:40 Uhr,departed,on time,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8002,DEP,EW 8002,10:40 Uhr,departed,on time,STR,EW,Stuttgart,Eurowings,LH5394,Sat
+2023_08_05,20230805TK 1722,DEP,TK 1722,10:40 Uhr,departed,10:40 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805LH 183,DEP,LH 183,10:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,AC9630 CX6700 TP7509 UA8971,Sat
+2023_08_05,20230805VY 1883,DEP,VY 1883,10:45 Uhr,departed,on time,BCN,VY,Barcelona,Vueling Airlines,IB5105,Sat
+2023_08_05,20230805EJU5223,DEP,EJU5223,10:50 Uhr,departed,11:50 Uhr,ZAD,EJU,Zadar,easyJet Europe,---,Sat
+2023_08_05,20230805LH 1935,DEP,LH 1935,10:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,SQ2177 TG7845 TP7729,Sat
+2023_08_05,20230805LX 977,DEP,LX 977,10:55 Uhr,departed,on time,ZRH,LX,Zürich,Swiss,AC6763,Sat
+2023_08_05,20230805FR 2599,DEP,FR 2599,11:00 Uhr,departed,on time,RIX,FR,Riga,Ryanair,---,Sat
+2023_08_05,20230805SK 2678,DEP,SK 2678,11:10 Uhr,departed,11:20 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Sat
+2023_08_05,20230805UA 235,DEP,UA 235,11:10 Uhr,departed,on time,IAD,UA,Washington Dulles,United Airlines,---,Sat
+2023_08_05,20230805XR 674,DEP,XR 674,11:10 Uhr,departed,on time,HER,CXI,Heraklion,Corendon Airlines Europe,---,Sat
+2023_08_05,20230805A3 821,DEP,A3 821,11:15 Uhr,departed,11:35 Uhr,ATH,A3,Athen,Aegean Airlines,---,Sat
+2023_08_05,20230805EJU5113,DEP,EJU5113,11:15 Uhr,departed,on time,TFS,EJU,Teneriffa,easyJet Europe,---,Sat
+2023_08_05,20230805LO 388,DEP,LO 388,11:20 Uhr,departed,on time,WAW,LO,Warschau,LOT Polish Airlines,---,Sat
+2023_08_05,20230805EJU7173,DEP,EJU7173,11:25 Uhr,departed,on time,BCN,EJU,Barcelona,easyJet Europe,---,Sat
+2023_08_05,20230805FR 3388,DEP,FR 3388,11:30 Uhr,departed,on time,MRS,FR,Marseille,Ryanair,---,Sat
+2023_08_05,20230805I2 3677,DEP,I2 3677,11:30 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,IB3677,Sat
+2023_08_05,20230805FH 1282,DEP,FH 1282,11:40 Uhr,departed,12:10 Uhr,AYT,FHY,Antalya,Freebird Airlines,---,Sat
+2023_08_05,20230805FR 267,DEP,FR 267,11:40 Uhr,departed,on time,CFU,FR,Korfu,Ryanair,---,Sat
+2023_08_05,20230805FR 6472,DEP,FR 6472,11:40 Uhr,departed,on time,TLV,FR,Tel Aviv,Ryanair,---,Sat
+2023_08_05,20230805SN 2582,DEP,SN 2582,11:40 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,TP7481,Sat
+2023_08_05,20230805LH 185,DEP,LH 185,11:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,TG7937 UA8973 AC9434 CA6016,Sat
+2023_08_05,20230805EW 5436,DEP,EW 5436,11:50 Uhr,departed,12:10 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805FR 1570,DEP,FR 1570,11:50 Uhr,departed,on time,VNO,FR,Vilnius,Ryanair,---,Sat
+2023_08_05,20230805EJU5283,DEP,EJU5283,12:05 Uhr,departed,on time,AMS,EJU,Amsterdam,easyJet Europe,---,Sat
+2023_08_05,20230805SR 3366,DEP,SR 3366,12:05 Uhr,departed,on time,FUE,SDR,Fuerteventura,SUNDAIR,---,Sat
+2023_08_05,20230805AF 1735,DEP,AF 1735,12:15 Uhr,departed,on time,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805KL 1824,DEP,KL 1824,12:15 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805TK 7729,DEP,TK 7729,12:20 Uhr,departed,12:20 Uhr,SAW,TK,Istanbul SAW,Turkish Airlines,---,Sat
+2023_08_05,20230805XQ 161,DEP,XQ 161,12:25 Uhr,departed,on time,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805BA 983,DEP,BA 983,12:35 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805FR 144,DEP,FR 144,12:50 Uhr,departed,on time,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805LH 1937,DEP,LH 1937,12:50 Uhr,departed,13:00 Uhr,MUC,LH,München,Lufthansa,AC9016,Sat
+2023_08_05,20230805TK 1730,DEP,TK 1730,13:00 Uhr,departed,on time,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805EW 007,DEP,EW 007,13:10 Uhr,departed,on time,CGN,EW,Köln/Bonn,Eurowings,---,Sat
+2023_08_05,20230805FR 134,DEP,FR 134,13:10 Uhr,departed,on time,FCO,FR,Rom FCO,Ryanair,---,Sat
+2023_08_05,20230805AY 1434,DEP,AY 1434,13:15 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,JL6898,Sat
+2023_08_05,20230805EW 8432,DEP,EW 8432,13:15 Uhr,departed,14:05 Uhr,BIA,EW,Bastia,Eurowings,---,Sat
+2023_08_05,20230805PC 980,DEP,PC 980,13:15 Uhr,departed,on time,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805EJU5019,DEP,EJU5019,13:30 Uhr,departed,14:16 Uhr,KGS,EJU,Kos,easyJet Europe,---,Sat
+2023_08_05,20230805EZS1188,DEP,EZS1188,13:30 Uhr,departed,on time,BSL,DS,Basel,easyJet Switzerland,---,Sat
+2023_08_05,20230805EJU5367,DEP,EJU5367,13:45 Uhr,departed,on time,LCA,EJU,Larnaca,easyJet Europe,---,Sat
+2023_08_05,20230805LH 189,DEP,LH 189,13:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,AC9050 OU5467,Sat
+2023_08_05,20230805SR 4760,DEP,SR 4760,13:45 Uhr,departed,on time,RHO,SDR,Rhodos,SUNDAIR,---,Sat
+2023_08_05,20230805FR 1578,DEP,FR 1578,13:55 Uhr,departed,on time,TGD,FR,Podgorica,Ryanair,---,Sat
+2023_08_05,20230805SK 2680,DEP,SK 2680,14:05 Uhr,departed,14:35 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Sat
+2023_08_05,20230805EJU5007,DEP,EJU5007,14:10 Uhr,departed,15:11 Uhr,HER,EJU,Heraklion,easyJet Europe,---,Sat
+2023_08_05,20230805FI 529,DEP,FI 529,14:10 Uhr,departed,14:35 Uhr,KEF,FI,Reykjavik,Icelandair,---,Sat
+2023_08_05,20230805SM 2961,DEP,SM 2961,14:10 Uhr,departed,on time,HRG,SM,Hurghada,Air Cairo,---,Sat
+2023_08_05,20230805EJU5071,DEP,EJU5071,14:20 Uhr,departed,14:39 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Sat
+2023_08_05,20230805KL 1826,DEP,KL 1826,14:30 Uhr,departed,14:35 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805FR 259,DEP,FR 259,14:35 Uhr,departed,on time,KGS,FR,Kos,Ryanair,---,Sat
+2023_08_05,20230805A9 782,DEP,A9 782,14:40 Uhr,departed,on time,TBS,A9,Tiflis,Georgian Airways,---,Sat
+2023_08_05,20230805EW 8594,DEP,EW 8594,14:40 Uhr,departed,15:00 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805EW 8678,DEP,EW 8678,14:40 Uhr,departed,14:55 Uhr,HER,EW,Heraklion,Eurowings,---,Sat
+2023_08_05,20230805XQ 947,DEP,XQ 947,14:40 Uhr,departed,on time,ADB,XQ,Izmir ADB,Sun Express,---,Sat
+2023_08_05,20230805FR 146,DEP,FR 146,14:45 Uhr,departed,on time,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805LH 191,DEP,LH 191,14:45 Uhr,departed,14:55 Uhr,FRA,LH,Frankfurt,Lufthansa,A31583 AC9537 UA9215,Sat
+2023_08_05,20230805FR 1146,DEP,FR 1146,14:50 Uhr,departed,16:00 Uhr,SKG,FR,Thessaloniki,Ryanair,---,Sat
+2023_08_05,20230805EJU5115,DEP,EJU5115,14:55 Uhr,departed,15:30 Uhr,IBZ,EJU,Ibiza,easyJet Europe,---,Sat
+2023_08_05,20230805LX 967,DEP,LX 967,14:55 Uhr,departed,15:15 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805EJU5055,DEP,EJU5055,15:00 Uhr,departed,15:10 Uhr,OLB,EJU,Olbia,easyJet Europe,---,Sat
+2023_08_05,20230805TK 1726,DEP,TK 1726,15:00 Uhr,departed,15:27 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 208,DEP,FR 208,15:05 Uhr,departed,on time,IBZ,FR,Ibiza,Ryanair,---,Sat
+2023_08_05,20230805OS 230,DEP,OS 230,15:10 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805EW 8530,DEP,EW 8530,15:15 Uhr,departed,15:45 Uhr,ALC,EW,Alicante,Eurowings,---,Sat
+2023_08_05,20230805AF 1235,DEP,AF 1235,15:20 Uhr,departed,15:40 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EW 8590,DEP,EW 8590,15:25 Uhr,departed,on time,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805OU 433,DEP,OU 433,15:30 Uhr,departed,15:45 Uhr,SPU,OU,Split,Croatia Airlines,---,Sat
+2023_08_05,20230805BJ 2423,DEP,BJ 2423,15:35 Uhr,departed,on time,DJE,BJ,Djerba,Nouvelair Tunisie,---,Sat
+2023_08_05,20230805FR 1639,DEP,FR 1639,15:35 Uhr,departed,on time,EMA,FR,Nottingham EMA,Ryanair,---,Sat
+2023_08_05,20230805EJU5023,DEP,EJU5023,15:45 Uhr,departed,16:39 Uhr,ZTH,EJU,Zakinthos,easyJet Europe,---,Sat
+2023_08_05,20230805FR 351,DEP,FR 351,15:45 Uhr,departed,on time,RHO,FR,Rhodos,Ryanair,---,Sat
+2023_08_05,20230805MS 732,DEP,MS 732,15:45 Uhr,departed,16:45 Uhr,CAI,MS,Kairo,Egypt Air,---,Sat
+2023_08_05,20230805LH 1943,DEP,LH 1943,15:50 Uhr,departed,on time,MUC,LH,München,Lufthansa,CA6112 TP7793,Sat
+2023_08_05,20230805EJU5217,DEP,EJU5217,16:05 Uhr,departed,on time,DBV,EJU,Dubrovnik,easyJet Europe,---,Sat
+2023_08_05,20230805FR 226,DEP,FR 226,16:05 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805PC 978,DEP,PC 978,16:30 Uhr,departed,17:25 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805FR 3670,DEP,FR 3670,16:35 Uhr,departed,on time,DUB,FR,Dublin,Ryanair,---,Sat
+2023_08_05,20230805SK 1674,DEP,SK 1674,16:35 Uhr,departed,16:50 Uhr,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,FI7540,Sat
+2023_08_05,20230805QR 082,DEP,QR 082,16:40 Uhr,departed,on time,DOH,QR,Doha,Qatar Airways,FB1921 MH9754 VA6166,Sat
+2023_08_05,20230805LH 195,DEP,LH 195,16:45 Uhr,departed,16:55 Uhr,FRA,LH,Frankfurt,Lufthansa,OU5471,Sat
+2023_08_05,20230805EJU5005,DEP,EJU5005,17:05 Uhr,departed,on time,CFU,EJU,Korfu,easyJet Europe,---,Sat
+2023_08_05,20230805A3 823,DEP,A3 823,17:15 Uhr,departed,17:35 Uhr,ATH,A3,Athen,Aegean Airlines,---,Sat
+2023_08_05,20230805FR 1154,DEP,FR 1154,17:15 Uhr,departed,on time,MAN,FR,Manchester,Ryanair,---,Sat
+2023_08_05,20230805TP 535,DEP,TP 535,17:15 Uhr,departed,on time,LIS,TP,Lissabon,TAP Air Portugal,---,Sat
+2023_08_05,20230805FR 140,DEP,FR 140,17:20 Uhr,departed,on time,FCO,FR,Rom FCO,Ryanair,---,Sat
+2023_08_05,20230805FR 2732,DEP,FR 2732,17:25 Uhr,departed,18:55 Uhr,TLL,FR,Tallinn,Ryanair,---,Sat
+2023_08_05,20230805XQ 661,DEP,XQ 661,17:25 Uhr,departed,19:30 Uhr,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805KL 1830,DEP,KL 1830,17:30 Uhr,departed,on time,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805FR 5252,DEP,FR 5252,17:35 Uhr,departed,on time,BLL,FR,Billund,Ryanair,---,Sat
+2023_08_05,20230805LH 197,DEP,LH 197,17:45 Uhr,departed,18:15 Uhr,FRA,LH,Frankfurt,Lufthansa,TG7635 TP7743 UK3003 CA6196 NH6052,Sat
+2023_08_05,20230805LH 1947,DEP,LH 1947,17:50 Uhr,departed,18:20 Uhr,MUC,LH,München,Lufthansa,A31593 OU5433 TP7791,Sat
+2023_08_05,20230805AF 1835,DEP,AF 1835,18:10 Uhr,departed,18:13 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU8624,DEP,EJU8624,18:20 Uhr,departed,18:26 Uhr,LGW,EJU,London LGW,easyJet Europe,---,Sat
+2023_08_05,20230805FR 177,DEP,FR 177,18:25 Uhr,departed,22:45 Uhr,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805FR 148,DEP,FR 148,18:30 Uhr,departed,on time,BCN,FR,Barcelona,Ryanair,---,Sat
+2023_08_05,20230805KLJ8342,DEP,KLJ8342,18:30 Uhr,departed,on time,BGY,KLJ,Mailand BGY,KlasJet,---,Sat
+2023_08_05,20230805EW 8964,DEP,EW 8964,18:35 Uhr,departed,20:05 Uhr,ZAD,EW,Zadar,Eurowings,---,Sat
+2023_08_05,20230805LH 199,DEP,LH 199,18:45 Uhr,departed,19:00 Uhr,FRA,LH,Frankfurt,Lufthansa,CA6002 ET1598 LA8709 OU5473 SQ2129 TP7709 AI8517,Sat
+2023_08_05,20230805LX 971,DEP,LX 971,18:45 Uhr,departed,19:00 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805SN 2588,DEP,SN 2588,18:45 Uhr,departed,on time,BRU,SN,Brüssel,Brussels Airlines,NH5150,Sat
+2023_08_05,20230805FR 9956,DEP,FR 9956,18:50 Uhr,departed,on time,PSA,FR,Pisa,Ryanair,---,Sat
+2023_08_05,20230805KL 1832,DEP,KL 1832,18:50 Uhr,departed,19:40 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805PC 5008,DEP,PC 5008,18:50 Uhr,departed,on time,AYT,PC,Antalya,Pegasus Airlines,---,Sat
+2023_08_05,20230805PC 1678,DEP,PC 1678,19:05 Uhr,departed,on time,ESB,PC,Ankara ESB,Pegasus Airlines,---,Sat
+2023_08_05,20230805TWI 318,DEP,TWI 318,19:10 Uhr,departed,on time,AYT,TWI,Antalya,Tailwind Airlines,---,Sat
+2023_08_05,20230805AY 1436,DEP,AY 1436,19:15 Uhr,departed,on time,HEL,AY,Helsinki,Finnair,---,Sat
+2023_08_05,20230805TK 1724,DEP,TK 1724,19:35 Uhr,departed,19:55 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805TK 7895,DEP,TK 7895,19:35 Uhr,departed,21:59 Uhr,AYT,TK,Antalya,Turkish Airlines,---,Sat
+2023_08_05,20230805EJU5267,DEP,EJU5267,19:40 Uhr,departed,on time,CPH,EJU,Kopenhagen,easyJet Europe,---,Sat
+2023_08_05,20230805PC 984,DEP,PC 984,19:40 Uhr,departed,20:40 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805FR 008,DEP,FR 008,19:45 Uhr,departed,on time,MXP,FR,Mailand MXP,Ryanair,---,Sat
+2023_08_05,20230805I2 3671,DEP,I2 3671,19:45 Uhr,departed,on time,MAD,IBS,Madrid,IBERIA Express,IB3671,Sat
+2023_08_05,20230805LH 1953,DEP,LH 1953,19:50 Uhr,departed,20:30 Uhr,MUC,LH,München,Lufthansa,CA6110,Sat
+2023_08_05,20230805BA 987,DEP,BA 987,19:55 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805OS 236,DEP,OS 236,20:05 Uhr,departed,on time,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805AF 1535,DEP,AF 1535,20:30 Uhr,departed,22:42 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU7544,DEP,EJU7544,20:45 Uhr,departed,21:16 Uhr,FAO,EJU,Faro,easyJet Europe,---,Sat
+2023_08_05,20230805FR 264,DEP,FR 264,20:45 Uhr,departed,on time,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805LH 203,DEP,LH 203,20:45 Uhr,departed,on time,FRA,LH,Frankfurt,Lufthansa,---,Sat
+2023_08_05,20230805EJU7338,DEP,EJU7338,20:50 Uhr,departed,on time,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Sat
+2023_08_05,20230805BA 995,DEP,BA 995,21:00 Uhr,departed,on time,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805EJU5073,DEP,EJU5073,21:00 Uhr,departed,on time,LIN,EJU,Mailand LIN,easyJet Europe,---,Sat
+2023_08_05,20230805W6 7740,DEP,W6 7740,21:35 Uhr,departed,23:10 Uhr,SKP,W6,Skopje,Wizz Air,---,Sat
+2023_08_05,20230805EI 337,DEP,EI 337,21:45 Uhr,departed,22:00 Uhr,DUB,EI,Dublin,Aer Lingus,---,Sat
+2023_08_05,20230805FR 3309,DEP,FR 3309,22:05 Uhr,departed,on time,BRI,FR,Bari,Ryanair,---,Sat
+2023_08_05,20230805VY 1885,DEP,VY 1885,22:05 Uhr,departed,22:05 Uhr,BCN,VY,Barcelona,Vueling Airlines,IB5107,Sat
+2023_08_05,20230805XQ 966,ARR,XQ 966,05:45 Uhr,arrived,05:31 Uhr,ADB,XQ,Izmir ADB,Sun Express,---,Sat
+2023_08_05,20230805FI 518,ARR,FI 518,06:15 Uhr,arrived,05:57 Uhr,KEF,FI,Reykjavik,Icelandair,---,Sat
+2023_08_05,20230805IV 680,ARR,IV 680,06:50 Uhr,arrived,06:19 Uhr,PRN,IV,Pristina International Airport,GP Aviation,---,Sat
+2023_08_05,20230805DL 092,ARR,DL 092,07:05 Uhr,arrived,06:30 Uhr,JFK,DL,New York JFK,Delta Air Lines,---,Sat
+2023_08_05,20230805NMA6228,ARR,NMA6228,07:05 Uhr,arrived,06:26 Uhr,HRG,NE,Hurghada,Nesma Airlines,---,Sat
+2023_08_05,20230805QR 079,ARR,QR 079,07:25 Uhr,arrived,07:25 Uhr,DOH,QR,Doha,Qatar Airways,---,Sat
+2023_08_05,20230805BT 211,ARR,BT 211,07:40 Uhr,arrived,08:06 Uhr,RIX,BT,Riga,Air Baltic,---,Sat
+2023_08_05,20230805FR 137,ARR,FR 137,07:45 Uhr,arrived,07:30 Uhr,BLQ,FR,Bologna,Ryanair,---,Sat
+2023_08_05,20230805UA 962,ARR,UA 962,07:50 Uhr,arrived,08:10 Uhr,EWR,UA,New York EWR,United Airlines,---,Sat
+2023_08_05,20230805EJU4631,ARR,EJU4631,07:55 Uhr,arrived,07:41 Uhr,CDG,EJU,Paris CDG,easyJet Europe,---,Sat
+2023_08_05,20230805LH 170,ARR,LH 170,07:55 Uhr,arrived,07:52 Uhr,FRA,LH,Frankfurt,Lufthansa,NH6209,Sat
+2023_08_05,20230805AY 1431,ARR,AY 1431,08:05 Uhr,arrived,08:09 Uhr,HEL,AY,Helsinki,Finnair,---,Sat
+2023_08_05,20230805LG 9471,ARR,LG 9471,08:05 Uhr,arrived,08:03 Uhr,LUX,LG,Luxemburg,Luxair,LH6871,Sat
+2023_08_05,20230805LH 1928,ARR,LH 1928,08:05 Uhr,arrived,07:59 Uhr,MUC,LH,München,Lufthansa,---,Sat
+2023_08_05,20230805OS 223,ARR,OS 223,08:15 Uhr,arrived,08:14 Uhr,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805UA 234,ARR,UA 234,08:20 Uhr,arrived,07:55 Uhr,IAD,UA,Washington Dulles,United Airlines,---,Sat
+2023_08_05,20230805EW 8049,ARR,EW 8049,08:25 Uhr,arrived,08:27 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Sat
+2023_08_05,20230805FT 3191,ARR,FT 3191,08:30 Uhr,arrived,07:59 Uhr,HRG,FEG,Hurghada,FlyEgypt,---,Sat
+2023_08_05,20230805PC 5067,ARR,PC 5067,08:35 Uhr,arrived,08:05 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Sat
+2023_08_05,20230805FR 3312,ARR,FR 3312,08:40 Uhr,arrived,08:38 Uhr,BGY,FR,Mailand BGY,Ryanair,---,Sat
+2023_08_05,20230805EJU4075,ARR,EJU4075,08:45 Uhr,arrived,08:34 Uhr,VCE,EJU,Venedig,easyJet Europe,---,Sat
+2023_08_05,20230805EJU5068,ARR,EJU5068,08:45 Uhr,arrived,08:40 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Sat
+2023_08_05,20230805LX 974,ARR,LX 974,08:45 Uhr,arrived,08:54 Uhr,ZRH,LX,Zürich,Swiss,AC6802,Sat
+2023_08_05,20230805JU 350,ARR,JU 350,09:00 Uhr,arrived,11:20 Uhr,BEG,JU,Belgrad,Air Serbia,---,Sat
+2023_08_05,20230805PC 5303,ARR,PC 5303,09:00 Uhr,arrived,08:36 Uhr,ADB,PC,Izmir ADB,Pegasus Airlines,---,Sat
+2023_08_05,20230805XQ 662,ARR,XQ 662,09:00 Uhr,arrived,08:51 Uhr,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805LH 1930,ARR,LH 1930,09:05 Uhr,arrived,09:05 Uhr,MUC,LH,München,Lufthansa,CA6111 NH6087 SQ2176 TG7844,Sat
+2023_08_05,20230805TK 1603,ARR,TK 1603,09:10 Uhr,arrived,08:58 Uhr,ADA,TK,Adana,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 163,ARR,FR 163,09:15 Uhr,arrived,09:01 Uhr,BRU,FR,Brüssel,Ryanair,---,Sat
+2023_08_05,20230805FR 217,ARR,FR 217,09:15 Uhr,arrived,08:57 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805TK 1721,ARR,TK 1721,09:15 Uhr,arrived,09:22 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 1145,ARR,FR 1145,09:30 Uhr,arrived,09:37 Uhr,MAN,FR,Manchester,Ryanair,---,Sat
+2023_08_05,20230805DY 1102,ARR,DY 1102,09:35 Uhr,arrived,09:34 Uhr,OSL,DY,Oslo,Norwegian Air Shuttle AOC,---,Sat
+2023_08_05,20230805EW 8029,ARR,EW 8029,09:35 Uhr,arrived,09:26 Uhr,DUS,EW,Düsseldorf,Eurowings,---,Sat
+2023_08_05,20230805FR 2528,ARR,FR 2528,09:50 Uhr,arrived,09:51 Uhr,MAD,FR,Madrid,Ryanair,---,Sat
+2023_08_05,20230805EJU5212,ARR,EJU5212,09:55 Uhr,arrived,14:25 Uhr,PUY,EJU,Pula,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8969,ARR,EW 8969,09:55 Uhr,arrived,09:49 Uhr,RJK,EW,Rijeka,Eurowings,---,Sat
+2023_08_05,20230805FR 2536,ARR,FR 2536,09:55 Uhr,arrived,09:43 Uhr,KRK,FR,Krakau,Ryanair,---,Sat
+2023_08_05,20230805LH 176,ARR,LH 176,09:55 Uhr,arrived,10:02 Uhr,FRA,LH,Frankfurt,Lufthansa,AC9502 CA6003 CX6701 ET1579 SQ2018 TG7610 UA8721,Sat
+2023_08_05,20230805EI 332,ARR,EI 332,10:00 Uhr,arrived,09:54 Uhr,DUB,EI,Dublin,Aer Lingus,---,Sat
+2023_08_05,20230805EJU7333,ARR,EJU7333,10:05 Uhr,arrived,10:07 Uhr,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Sat
+2023_08_05,20230805LH 1934,ARR,LH 1934,10:05 Uhr,arrived,10:05 Uhr,MUC,LH,München,Lufthansa,OU5430 UA9189 AC9508,Sat
+2023_08_05,20230805LX 976,ARR,LX 976,10:05 Uhr,arrived,10:10 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805VY 1882,ARR,VY 1882,10:05 Uhr,arrived,09:45 Uhr,BCN,VY,Barcelona,Vueling Airlines,IB5104,Sat
+2023_08_05,20230805XR 673,ARR,XR 673,10:10 Uhr,arrived,10:16 Uhr,HER,CXI,Heraklion,Corendon Airlines Europe,---,Sat
+2023_08_05,20230805A3 820,ARR,A3 820,10:25 Uhr,arrived,10:24 Uhr,ATH,A3,Athen,Aegean Airlines,---,Sat
+2023_08_05,20230805EJU5214,ARR,EJU5214,10:30 Uhr,arrived,10:54 Uhr,SPU,EJU,Split,easyJet Europe,---,Sat
+2023_08_05,20230805SK 2677,ARR,SK 2677,10:30 Uhr,arrived,10:44 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Sat
+2023_08_05,20230805FR 2600,ARR,FR 2600,10:35 Uhr,arrived,10:23 Uhr,RIX,FR,Riga,Ryanair,---,Sat
+2023_08_05,20230805EJU7171,ARR,EJU7171,10:40 Uhr,arrived,10:49 Uhr,BCN,EJU,Barcelona,easyJet Europe,---,Sat
+2023_08_05,20230805FH 1281,ARR,FH 1281,10:40 Uhr,arrived,11:01 Uhr,AYT,FHY,Antalya,Freebird Airlines,---,Sat
+2023_08_05,20230805I2 3676,ARR,I2 3676,10:40 Uhr,arrived,10:26 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Sat
+2023_08_05,20230805LO 387,ARR,LO 387,10:40 Uhr,arrived,10:19 Uhr,WAW,LO,Warschau,LOT Polish Airlines,---,Sat
+2023_08_05,20230805FR 315,ARR,FR 315,10:50 Uhr,arrived,11:04 Uhr,OTP,FR,Bukarest,Ryanair,---,Sat
+2023_08_05,20230805FR 402,ARR,FR 402,10:50 Uhr,arrived,11:43 Uhr,VCE,FR,Venedig,Ryanair,---,Sat
+2023_08_05,20230805SN 2581,ARR,SN 2581,10:50 Uhr,arrived,10:57 Uhr,BRU,SN,Brüssel,Brussels Airlines,EY7237 HU8551 UA9991,Sat
+2023_08_05,20230805EJU5066,ARR,EJU5066,10:55 Uhr,arrived,10:42 Uhr,PSA,EJU,Pisa,easyJet Europe,---,Sat
+2023_08_05,20230805LH 178,ARR,LH 178,10:55 Uhr,arrived,10:59 Uhr,FRA,LH,Frankfurt,Lufthansa,AC9119,Sat
+2023_08_05,20230805FR 3389,ARR,FR 3389,11:05 Uhr,arrived,11:10 Uhr,MRS,FR,Marseille,Ryanair,---,Sat
+2023_08_05,20230805EW 5437,ARR,EW 5437,11:10 Uhr,arrived,11:08 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805TK 7728,ARR,TK 7728,11:15 Uhr,arrived,11:17 Uhr,SAW,TK,Istanbul SAW,Turkish Airlines,---,Sat
+2023_08_05,20230805AF 1734,ARR,AF 1734,11:20 Uhr,arrived,11:12 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805SR 7289,ARR,SR 7289,11:20 Uhr,arrived,11:06 Uhr,VAR,SDR,Varna,SUNDAIR,---,Sat
+2023_08_05,20230805FR 1571,ARR,FR 1571,11:25 Uhr,arrived,11:15 Uhr,VNO,FR,Vilnius,Ryanair,---,Sat
+2023_08_05,20230805KL 1823,ARR,KL 1823,11:30 Uhr,arrived,11:23 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805XQ 160,ARR,XQ 160,11:35 Uhr,arrived,11:59 Uhr,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805BA 982,ARR,BA 982,11:50 Uhr,arrived,11:28 Uhr,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805FR 133,ARR,FR 133,12:00 Uhr,arrived,11:49 Uhr,BCN,FR,Barcelona,Ryanair,---,Sat
+2023_08_05,20230805LH 1936,ARR,LH 1936,12:05 Uhr,arrived,11:54 Uhr,MUC,LH,München,Lufthansa,OU5360 TP7720 UA9185 A31586 AC9049,Sat
+2023_08_05,20230805PC 979,ARR,PC 979,12:10 Uhr,arrived,12:09 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805TK 1729,ARR,TK 1729,12:10 Uhr,arrived,11:55 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 111,ARR,FR 111,12:20 Uhr,arrived,13:40 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805AY 1433,ARR,AY 1433,12:25 Uhr,arrived,12:22 Uhr,HEL,AY,Helsinki,Finnair,---,Sat
+2023_08_05,20230805EJU5366,ARR,EJU5366,12:25 Uhr,arrived,11:58 Uhr,PRN,EJU,Pristina International Airport,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8593,ARR,EW 8593,12:25 Uhr,arrived,12:52 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805EW 006,ARR,EW 006,12:35 Uhr,arrived,12:19 Uhr,CGN,EW,Köln/Bonn,Eurowings,---,Sat
+2023_08_05,20230805EJU5028,ARR,EJU5028,12:40 Uhr,cancelled,19:00 Uhr,SKG,EJU,Thessaloniki,easyJet Europe,---,Sat
+2023_08_05,20230805EZS1187,ARR,EZS1187,12:55 Uhr,arrived,12:49 Uhr,BSL,DS,Basel,easyJet Switzerland,---,Sat
+2023_08_05,20230805LH 182,ARR,LH 182,12:55 Uhr,arrived,12:43 Uhr,FRA,LH,Frankfurt,Lufthansa,A31595 AC9245 OU5466 SQ2078 TP7508 UA8974,Sat
+2023_08_05,20230805FR 1577,ARR,FR 1577,13:05 Uhr,arrived,12:46 Uhr,TPS,FR,Trapani,Ryanair,---,Sat
+2023_08_05,20230805FI 528,ARR,FI 528,13:10 Uhr,arrived,13:32 Uhr,KEF,FI,Reykjavik,Icelandair,---,Sat
+2023_08_05,20230805SM 2960,ARR,SM 2960,13:10 Uhr,arrived,12:36 Uhr,HRG,SM,Hurghada,Air Cairo,---,Sat
+2023_08_05,20230805SR 4265,ARR,SR 4265,13:15 Uhr,arrived,12:59 Uhr,KGS,SDR,Kos,SUNDAIR,---,Sat
+2023_08_05,20230805EJU5054,ARR,EJU5054,13:25 Uhr,arrived,13:37 Uhr,NAP,EJU,Neapel,easyJet Europe,---,Sat
+2023_08_05,20230805EJU5118,ARR,EJU5118,13:25 Uhr,arrived,13:40 Uhr,MAH,EJU,Menorca,easyJet Europe,---,Sat
+2023_08_05,20230805SK 2679,ARR,SK 2679,13:25 Uhr,arrived,13:42 Uhr,ARN,SK,Stockholm ARN,SAS-Scandinavian Airlines System,---,Sat
+2023_08_05,20230805A9 781,ARR,A9 781,13:40 Uhr,arrived,13:28 Uhr,TBS,A9,Tiflis,Georgian Airways,---,Sat
+2023_08_05,20230805EW 5273,ARR,EW 5273,13:40 Uhr,arrived,13:56 Uhr,AYT,EW,Antalya,Eurowings,---,Sat
+2023_08_05,20230805XQ 946,ARR,XQ 946,13:40 Uhr,arrived,13:45 Uhr,ADB,XQ,Izmir ADB,Sun Express,---,Sat
+2023_08_05,20230805EW 8003,ARR,EW 8003,13:45 Uhr,arrived,14:10 Uhr,STR,EW,Stuttgart,Eurowings,LH5395,Sat
+2023_08_05,20230805FR 197,ARR,FR 197,13:45 Uhr,arrived,16:06 Uhr,BUD,FR,Budapest,Ryanair,---,Sat
+2023_08_05,20230805KL 1825,ARR,KL 1825,13:45 Uhr,arrived,13:50 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805QR 081,ARR,QR 081,13:45 Uhr,arrived,13:25 Uhr,DOH,QR,Doha,Qatar Airways,FB1924 VA6193 MH9755,Sat
+2023_08_05,20230805EJU5106,ARR,EJU5106,13:50 Uhr,arrived,13:20 Uhr,AGP,EJU,Malaga,easyJet Europe,---,Sat
+2023_08_05,20230805LH 184,ARR,LH 184,13:55 Uhr,arrived,14:12 Uhr,FRA,LH,Frankfurt,Lufthansa,AC9285 TP7702 UA8887,Sat
+2023_08_05,20230805FR 254,ARR,FR 254,14:00 Uhr,arrived,13:43 Uhr,FAO,FR,Faro,Ryanair,---,Sat
+2023_08_05,20230805LX 966,ARR,LX 966,14:05 Uhr,arrived,14:08 Uhr,ZRH,LX,Zürich,Swiss,AC6766 SQ2932,Sat
+2023_08_05,20230805TK 1725,ARR,TK 1725,14:10 Uhr,arrived,13:34 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805EJU5146,ARR,EJU5146,14:15 Uhr,arrived,14:23 Uhr,NCE,EJU,Nizza,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8989,ARR,EW 8989,14:15 Uhr,arrived,14:52 Uhr,SPU,EW,Split,Eurowings,---,Sat
+2023_08_05,20230805FR 1143,ARR,FR 1143,14:20 Uhr,arrived,14:49 Uhr,LIS,FR,Lissabon,Ryanair,---,Sat
+2023_08_05,20230805FR 145,ARR,FR 145,14:20 Uhr,arrived,14:15 Uhr,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805FR 2376,ARR,FR 2376,14:25 Uhr,arrived,14:06 Uhr,EDI,FR,Edinburgh,Ryanair,---,Sat
+2023_08_05,20230805OS 229,ARR,OS 229,14:25 Uhr,arrived,14:18 Uhr,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805AF 1234,ARR,AF 1234,14:30 Uhr,arrived,14:34 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EW 8905,ARR,EW 8905,14:35 Uhr,arrived,14:05 Uhr,LCA,EW,Larnaca,Eurowings,---,Sat
+2023_08_05,20230805BJ 2422,ARR,BJ 2422,14:45 Uhr,arrived,14:40 Uhr,DJE,BJ,Djerba,Nouvelair Tunisie,---,Sat
+2023_08_05,20230805MS 731,ARR,MS 731,14:45 Uhr,arrived,14:20 Uhr,CAI,MS,Kairo,Egypt Air,---,Sat
+2023_08_05,20230805OU 432,ARR,OU 432,14:45 Uhr,arrived,14:45 Uhr,SPU,OU,Split,Croatia Airlines,---,Sat
+2023_08_05,20230805EJU5224,ARR,EJU5224,15:00 Uhr,arrived,15:50 Uhr,ZAD,EJU,Zadar,easyJet Europe,---,Sat
+2023_08_05,20230805LH 1942,ARR,LH 1942,15:05 Uhr,arrived,14:58 Uhr,MUC,LH,München,Lufthansa,AC9530 TP7520,Sat
+2023_08_05,20230805FR 1638,ARR,FR 1638,15:10 Uhr,arrived,16:10 Uhr,EMA,FR,Nottingham EMA,Ryanair,---,Sat
+2023_08_05,20230805EJU5014,ARR,EJU5014,15:20 Uhr,arrived,15:13 Uhr,RHO,EJU,Rhodos,easyJet Europe,---,Sat
+2023_08_05,20230805FR 227,ARR,FR 227,15:25 Uhr,arrived,15:22 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805PC 977,ARR,PC 977,15:25 Uhr,arrived,16:01 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805EJU5284,ARR,EJU5284,15:30 Uhr,arrived,15:16 Uhr,AMS,EJU,Amsterdam,easyJet Europe,---,Sat
+2023_08_05,20230805LH 188,ARR,LH 188,15:55 Uhr,arrived,16:04 Uhr,FRA,LH,Frankfurt,Lufthansa,AC9038 TP7704 UA8976,Sat
+2023_08_05,20230805SK 1673,ARR,SK 1673,15:55 Uhr,arrived,15:52 Uhr,CPH,SK,Kopenhagen,SAS-Scandinavian Airlines System,AC9914 FI7541,Sat
+2023_08_05,20230805FR 3669,ARR,FR 3669,16:10 Uhr,arrived,16:35 Uhr,DUB,FR,Dublin,Ryanair,---,Sat
+2023_08_05,20230805A3 822,ARR,A3 822,16:20 Uhr,arrived,16:25 Uhr,ATH,A3,Athen,Aegean Airlines,---,Sat
+2023_08_05,20230805TP 530,ARR,TP 530,16:30 Uhr,arrived,16:15 Uhr,LIS,TP,Lissabon,TAP Air Portugal,---,Sat
+2023_08_05,20230805XQ 660,ARR,XQ 660,16:35 Uhr,arrived,18:10 Uhr,AYT,XQ,Antalya,Sun Express,---,Sat
+2023_08_05,20230805KL 1829,ARR,KL 1829,16:40 Uhr,arrived,16:42 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805FR 147,ARR,FR 147,16:45 Uhr,arrived,17:13 Uhr,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805FR 1155,ARR,FR 1155,16:50 Uhr,arrived,16:55 Uhr,MAN,FR,Manchester,Ryanair,---,Sat
+2023_08_05,20230805LH 190,ARR,LH 190,16:55 Uhr,arrived,17:33 Uhr,FRA,LH,Frankfurt,Lufthansa,OU5468,Sat
+2023_08_05,20230805EW 8681,ARR,EW 8681,17:00 Uhr,arrived,17:13 Uhr,ZTH,EW,Zakinthos,Eurowings,---,Sat
+2023_08_05,20230805FR 268,ARR,FR 268,17:00 Uhr,arrived,22:56 Uhr,CFU,FR,Korfu,Ryanair,---,Sat
+2023_08_05,20230805LH 1946,ARR,LH 1946,17:05 Uhr,arrived,17:21 Uhr,MUC,LH,München,Lufthansa,TP7714 UA9107,Sat
+2023_08_05,20230805FR 5253,ARR,FR 5253,17:10 Uhr,arrived,17:11 Uhr,BLL,FR,Billund,Ryanair,---,Sat
+2023_08_05,20230805AF 1834,ARR,AF 1834,17:15 Uhr,arrived,17:17 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU7543,ARR,EJU7543,17:35 Uhr,arrived,17:24 Uhr,FAO,EJU,Faro,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8433,ARR,EW 8433,17:45 Uhr,arrived,19:14 Uhr,BIA,EW,Bastia,Eurowings,---,Sat
+2023_08_05,20230805LH 192,ARR,LH 192,17:55 Uhr,arrived,18:08 Uhr,FRA,LH,Frankfurt,Lufthansa,TP7712 UA8715,Sat
+2023_08_05,20230805LX 970,ARR,LX 970,17:55 Uhr,arrived,18:02 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805SN 2587,ARR,SN 2587,17:55 Uhr,arrived,17:44 Uhr,BRU,SN,Brüssel,Brussels Airlines,EY7229 TP7488 UA9889,Sat
+2023_08_05,20230805FR 135,ARR,FR 135,18:00 Uhr,arrived,19:32 Uhr,FCO,FR,Rom FCO,Ryanair,---,Sat
+2023_08_05,20230805KL 1831,ARR,KL 1831,18:00 Uhr,arrived,18:51 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805PC 5007,ARR,PC 5007,18:00 Uhr,arrived,17:47 Uhr,AYT,PC,Antalya,Pegasus Airlines,---,Sat
+2023_08_05,20230805TK 1723,ARR,TK 1723,18:00 Uhr,arrived,17:52 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805FR 149,ARR,FR 149,18:05 Uhr,arrived,18:23 Uhr,BCN,FR,Barcelona,Ryanair,---,Sat
+2023_08_05,20230805TWI 317,ARR,TWI 317,18:10 Uhr,arrived,18:05 Uhr,AYT,TWI,Antalya,Tailwind Airlines,---,Sat
+2023_08_05,20230805PC 1677,ARR,PC 1677,18:15 Uhr,arrived,17:57 Uhr,ESB,PC,Ankara ESB,Pegasus Airlines,---,Sat
+2023_08_05,20230805FR 1579,ARR,FR 1579,18:20 Uhr,arrived,18:47 Uhr,TGD,FR,Podgorica,Ryanair,---,Sat
+2023_08_05,20230805AY 1435,ARR,AY 1435,18:35 Uhr,arrived,18:33 Uhr,HEL,AY,Helsinki,Finnair,JL6823,Sat
+2023_08_05,20230805PC 983,ARR,PC 983,18:35 Uhr,arrived,19:21 Uhr,SAW,PC,Istanbul SAW,Pegasus Airlines,---,Sat
+2023_08_05,20230805TK 7894,ARR,TK 7894,18:40 Uhr,arrived,20:57 Uhr,AYT,TK,Antalya,Turkish Airlines,---,Sat
+2023_08_05,20230805EJU5072,ARR,EJU5072,18:45 Uhr,arrived,18:39 Uhr,LIN,EJU,Mailand LIN,easyJet Europe,---,Sat
+2023_08_05,20230805BA 986,ARR,BA 986,19:00 Uhr,arrived,20:06 Uhr,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805I2 3672,ARR,I2 3672,19:00 Uhr,arrived,18:30 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Sat
+2023_08_05,20230805LH 1952,ARR,LH 1952,19:05 Uhr,arrived,19:44 Uhr,MUC,LH,München,Lufthansa,---,Sat
+2023_08_05,20230805OS 235,ARR,OS 235,19:15 Uhr,arrived,19:07 Uhr,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805FR 009,ARR,FR 009,19:20 Uhr,arrived,19:24 Uhr,MXP,FR,Mailand MXP,Ryanair,---,Sat
+2023_08_05,20230805AF 1534,ARR,AF 1534,19:40 Uhr,arrived,21:48 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU7337,ARR,EJU7337,19:45 Uhr,arrived,20:34 Uhr,PMI,EJU,Palma de Mallorca,easyJet Europe,---,Sat
+2023_08_05,20230805LH 198,ARR,LH 198,19:55 Uhr,arrived,20:02 Uhr,FRA,LH,Frankfurt,Lufthansa,A31594 CA6049 LA8680 NH6053 OU5470 TP7716,Sat
+2023_08_05,20230805EJU8625,ARR,EJU8625,20:00 Uhr,arrived,21:26 Uhr,LGW,EJU,London LGW,easyJet Europe,---,Sat
+2023_08_05,20230805FR 1147,ARR,FR 1147,20:10 Uhr,arrived,23:13 Uhr,SKG,FR,Thessaloniki,Ryanair,---,Sat
+2023_08_05,20230805BA 994,ARR,BA 994,20:15 Uhr,arrived,20:37 Uhr,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805EJU5056,ARR,EJU5056,20:15 Uhr,arrived,21:00 Uhr,OLB,EJU,Olbia,easyJet Europe,---,Sat
+2023_08_05,20230805FR 263,ARR,FR 263,20:20 Uhr,arrived,22:00 Uhr,PMI,FR,Palma de Mallorca,Ryanair,---,Sat
+2023_08_05,20230805EJU5020,ARR,EJU5020,20:45 Uhr,arrived,21:57 Uhr,KGS,EJU,Kos,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8595,ARR,EW 8595,20:50 Uhr,arrived,21:29 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805LH 200,ARR,LH 200,20:55 Uhr,arrived,20:54 Uhr,FRA,LH,Frankfurt,Lufthansa,CA6007 SQ2006 TP7710 AI8867,Sat
+2023_08_05,20230805FR 6473,ARR,FR 6473,21:00 Uhr,arrived,23:37 Uhr,TLV,FR,Tel Aviv,Ryanair,---,Sat
+2023_08_05,20230805W6 7739,ARR,W6 7739,21:00 Uhr,arrived,22:30 Uhr,SKP,W6,Skopje,Wizz Air,---,Sat
+2023_08_05,20230805EI 336,ARR,EI 336,21:05 Uhr,arrived,20:41 Uhr,DUB,EI,Dublin,Aer Lingus,---,Sat
+2023_08_05,20230805FR 260,ARR,FR 260,21:10 Uhr,arrived,21:16 Uhr,KGS,FR,Kos,Ryanair,---,Sat
+2023_08_05,20230805EJU5008,ARR,EJU5008,21:15 Uhr,arrived,23:09 Uhr,HER,EJU,Heraklion,easyJet Europe,---,Sat
+2023_08_05,20230805EJU5218,ARR,EJU5218,21:15 Uhr,arrived,20:29 Uhr,DBV,EJU,Dubrovnik,easyJet Europe,---,Sat
+2023_08_05,20230805FR 209,ARR,FR 209,21:20 Uhr,arrived,22:27 Uhr,IBZ,FR,Ibiza,Ryanair,---,Sat
+2023_08_05,20230805SR 4761,ARR,SR 4761,21:20 Uhr,arrived,20:51 Uhr,RHO,SDR,Rhodos,SUNDAIR,---,Sat
+2023_08_05,20230805VY 1884,ARR,VY 1884,21:20 Uhr,arrived,21:27 Uhr,BCN,VY,Barcelona,Vueling Airlines,IB5106,Sat
+2023_08_05,20230805EJU5116,ARR,EJU5116,21:30 Uhr,arrived,23:16 Uhr,IBZ,EJU,Ibiza,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8591,ARR,EW 8591,21:30 Uhr,arrived,21:36 Uhr,PMI,EW,Palma de Mallorca,Eurowings,---,Sat
+2023_08_05,20230805TK 1727,ARR,TK 1727,21:30 Uhr,arrived,21:33 Uhr,IST,TK,Istanbul Airport,Turkish Airlines,---,Sat
+2023_08_05,20230805EW 8679,ARR,EW 8679,21:35 Uhr,arrived,22:44 Uhr,HER,EW,Heraklion,Eurowings,---,Sat
+2023_08_05,20230805FR 2733,ARR,FR 2733,21:35 Uhr,arrived,23:56 Uhr,TLL,FR,Tallinn,Ryanair,---,Sat
+2023_08_05,20230805FR 3310,ARR,FR 3310,21:40 Uhr,arrived,22:03 Uhr,BRI,FR,Bari,Ryanair,---,Sat
+2023_08_05,20230805KL 1835,ARR,KL 1835,22:00 Uhr,arrived,21:58 Uhr,AMS,KL,Amsterdam,KLM Royal Dutch Airlines,---,Sat
+2023_08_05,20230805EW 8531,ARR,EW 8531,22:05 Uhr,arrived,23:44 Uhr,ALC,EW,Alicante,Eurowings,---,Sat
+2023_08_05,20230805EJU5024,ARR,EJU5024,22:10 Uhr,arrived,23:40 Uhr,ZTH,EJU,Zakinthos,easyJet Europe,---,Sat
+2023_08_05,20230805FR 141,ARR,FR 141,22:10 Uhr,arrived,22:53 Uhr,FCO,FR,Rom FCO,Ryanair,---,Sat
+2023_08_05,20230805BA 988,ARR,BA 988,22:15 Uhr,arrived,21:53 Uhr,LHR,BA,London LHR,British Airways,---,Sat
+2023_08_05,20230805EJU5368,ARR,EJU5368,22:15 Uhr,arrived,22:13 Uhr,LCA,EJU,Larnaca,easyJet Europe,---,Sat
+2023_08_05,20230805OS 239,ARR,OS 239,22:15 Uhr,arrived,22:50 Uhr,VIE,OS,Wien,Austrian Airlines,---,Sat
+2023_08_05,20230805SN 2591,ARR,SN 2591,22:15 Uhr,arrived,23:00 Uhr,BRU,SN,Brüssel,Brussels Airlines,NH5125 TP7490,Sat
+2023_08_05,20230805FR 176,ARR,FR 176,22:20 Uhr,arrived,22:25 Uhr,STN,FR,London STN,Ryanair,---,Sat
+2023_08_05,20230805LX 962,ARR,LX 962,22:20 Uhr,arrived,22:14 Uhr,ZRH,LX,Zürich,Swiss,---,Sat
+2023_08_05,20230805TP 532,ARR,TP 532,22:20 Uhr,arrived,22:23 Uhr,LIS,TP,Lissabon,TAP Air Portugal,---,Sat
+2023_08_05,20230805EJU5268,ARR,EJU5268,22:25 Uhr,arrived,22:07 Uhr,CPH,EJU,Kopenhagen,easyJet Europe,---,Sat
+2023_08_05,20230805EW 8965,ARR,EW 8965,22:25 Uhr,arrived,23:53 Uhr,ZAD,EW,Zadar,Eurowings,---,Sat
+2023_08_05,20230805LH 202,ARR,LH 202,22:25 Uhr,arrived,22:58 Uhr,FRA,LH,Frankfurt,Lufthansa,OU5476 TG7626 TP7706 UK3202,Sat
+2023_08_05,20230805LH 1962,ARR,LH 1962,22:35 Uhr,arrived,22:41 Uhr,MUC,LH,München,Lufthansa,A31598 OU5432 TP7726,Sat
+2023_08_05,20230805AF 1134,ARR,AF 1134,22:40 Uhr,arrived,23:02 Uhr,CDG,AF,Paris CDG,Air France,---,Sat
+2023_08_05,20230805EJU5114,ARR,EJU5114,22:40 Uhr,arrived,22:05 Uhr,TFS,EJU,Teneriffa,easyJet Europe,---,Sat
+2023_08_05,20230805EJU5006,ARR,EJU5006,22:50 Uhr,arrived,23:04 Uhr,CFU,EJU,Korfu,easyJet Europe,---,Sat
+2023_08_05,20230805FR 352,ARR,FR 352,22:50 Uhr,arrived,23:41 Uhr,RHO,FR,Rhodos,Ryanair,---,Sat
+2023_08_05,20230805FR 9955,ARR,FR 9955,23:00 Uhr,arrived,23:49 Uhr,PSA,FR,Pisa,Ryanair,---,Sat
+2023_08_05,20230805I2 3674,ARR,I2 3674,23:00 Uhr,arrived,22:37 Uhr,MAD,IBS,Madrid,IBERIA Express,---,Sat
+2023_08_05,20230805SR 3367,ARR,SR 3367,23:10 Uhr,arrived,23:10 Uhr,FUE,SDR,Fuerteventura,SUNDAIR,---,Sat
