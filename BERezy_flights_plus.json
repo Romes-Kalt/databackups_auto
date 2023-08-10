@@ -136,7 +136,7 @@
       "5187": {
         "Departure": "19:10",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5287": {
         "Departure": "19:30",
@@ -195,7 +195,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_07_31": {
     "Total flights": 40,
     "easyJet Europe": {
@@ -213,7 +214,7 @@
       "5187": {
         "Departure": "06:00",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5007": {
         "Departure": "06:55",
@@ -407,7 +408,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_01": {
     "Total flights": 34,
     "easyJet Europe": {
@@ -545,7 +547,7 @@
       "5187": {
         "Departure": "19:10",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5267": {
         "Departure": "19:40",
@@ -589,7 +591,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_02": {
     "Total flights": 30,
     "easyJet Europe": {
@@ -751,7 +754,8 @@
     "easyJet Switzerland": {
       "Total flights": 0
     }
-  },
+  }
+,
   "2023_08_03": {
     "Total flights": 35,
     "easyJet Europe": {
@@ -938,7 +942,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_04": {
     "Total flights": 37,
     "easyJet Europe": {
@@ -1076,7 +1081,7 @@
       "5187": {
         "Departure": "19:10",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5287": {
         "Departure": "19:30",
@@ -1135,7 +1140,8 @@
     "easyJet Switzerland": {
       "Total flights": 0
     }
-  },
+  }
+,
   "2023_08_05": {
     "Total flights": 32,
     "easyJet Europe": {
@@ -1307,7 +1313,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_06": {
     "Total flights": 38,
     "easyJet Europe": {
@@ -1455,7 +1462,7 @@
       "5187": {
         "Departure": "19:10",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5287": {
         "Departure": "19:30",
@@ -1509,7 +1516,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_07": {
     "Total flights": 42,
     "easyJet Europe": {
@@ -1527,7 +1535,7 @@
       "5187": {
         "Departure": "06:00",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5263": {
         "Departure": "06:30",
@@ -1731,7 +1739,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_08": {
     "Total flights": 37,
     "easyJet Europe": {
@@ -1884,7 +1893,7 @@
       "5187": {
         "Departure": "19:10",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5267": {
         "Departure": "19:40",
@@ -1928,7 +1937,8 @@
         "Destination": "Basel"
       }
     }
-  },
+  }
+,
   "2023_08_09": {
     "Total flights": 33,
     "easyJet Europe": {
@@ -2066,7 +2076,7 @@
       "5187": {
         "Departure": "19:00",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5287": {
         "Departure": "19:30",
@@ -2105,7 +2115,8 @@
     "easyJet Switzerland": {
       "Total flights": 0
     }
-  },
+  }
+,
   "2023_08_10": {
     "Total flights": 38,
     "easyJet Europe": {
@@ -2193,7 +2204,7 @@
       "5187": {
         "Departure": "13:45",
         "IATA Code": "ZRH",
-        "Destination": "Z\u00c3\u00bcrich"
+        "Destination": "Zürich"
       },
       "5071": {
         "Departure": "14:20",
