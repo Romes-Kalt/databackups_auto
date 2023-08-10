@@ -8,8 +8,8 @@ import logging
 import time
 import smtplib
 
-# LOG_FILEPATH = "/usr/python/combined_scraper/log/git_push.log"
-LOG_FILEPATH = "/usr/python/combined_scraper/log/combined_scraper_plus.log"
+LOG_FILEPATH = "/usr/python/combined_scraper/log/git_push.log"
+# LOG_FILEPATH = "/usr/python/combined_scraper/log/combined_scraper_plus.log"
 TODAY = dt.datetime.strftime(dt.datetime.now(), "%Y_%m_%d")
 
 
@@ -44,7 +44,8 @@ def git_push_routine(files: list = None):
     logging.info("files copied from ../data/, code: %s", cp_files.poll())
 
 
-    add_files = subprocess.Popen(["git", "add", "*_plus.*"])
+    # add_files = subprocess.Popen(["git", "add", "*_plus.*"])
+    add_files = subprocess.Popen(["git", "add", "*"])
     time.sleep(5)
     logging.info("files added, code: %s", add_files.poll())
 
