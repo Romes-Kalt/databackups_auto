@@ -224,13 +224,12 @@ def all_airlines_scrape(filepath: str = ALL_FLIGHTS_FP):
     """All flights from the airlines for today saved to ./data/ezy.json"""
     flights_today_lst = []
     flights_today_lst = scrape_airl(None)
-
     # get all airline codes:
     airline_names = []
     for _ in flights_today_lst:
         if _[4] not in airline_names:
             airline_names.append(_[4])
-
+            
     logging.info("Write data of %s airlines to %s", len(airline_names), filepath)
     flights_today_json = {TODAY: {"TOTAL": 0}}
 
@@ -250,10 +249,10 @@ def all_airlines_scrape(filepath: str = ALL_FLIGHTS_FP):
         flights_today_json[TODAY][flight[4]][f"{flight[3]}{flight[0]}"][
             "Destination"
         ] = flight[-1]
-
+    
     # add data
     with codecs.open(filepath, "a", encoding="utf-8") as f:
-        json.dump(flights_today_json, f, indent=2, ensure_ascii=False).encode("utf-8")
+        json.dump(flights_today_json, f, indent=2, ensure_ascii=False)
 
     # correct JSON file
     # with codecs.open(filepath, "r", encoding="utf-8") as f:
@@ -315,7 +314,7 @@ def num_of_flights_from_yesterday_json_project(
 def dep_arr(filepath: str = FLIGHTS_DATA_FP):
 
     curr_weekday = WEEKDAYS[dt.datetime.strptime(YESTERDAY, "%Y_%m_%d").weekday()]
-    with open(FLIGHTS_DATA_FP, "r", encoding="utf-8") as file:
+    with open(FLIGHTS_DATA_FP, "r", encoding="latin1") as file:
         lines = file.read().splitlines()
         last_line = lines[-1]
     last_date = last_line.split(",")[0]
@@ -756,8 +755,11 @@ def add_data_json(main_file: str = "", new_data_fp: str = ""):
     new_date = list(new_dict.keys())
     # append new data and save
     main_dict.update(new_dict)
-    with codecs.open(main_file, "w", encoding="latin1") as fi:
-        json.dump(main_dict, fi, indent=2)
+    new_ = json.dumps(main_dict, ensure_ascii=False)
+    with open(main_file, "w", encoding="latin1") as f:
+        f.write(new_)
+    # with codecs.open(main_file, "w", encoding="latin1") as fi:
+    #     json.dump(main_dict, fi, indent=2)
     # check new date is in keys of main file:
     with codecs.open(main_file, "r", encoding="latin1") as fi:
         complete_dict = json.load(fi)
@@ -783,17 +785,17 @@ def add_data_csv(main_file: str = "", new_data_fp: str = ""):
     """
     # load both main and new file
     logging.info("Appending data from %s to %s.", new_data_fp, main_file)
-    with open(new_data_fp, "r", encoding="utf-8") as fi:
+    with open(new_data_fp, "r", encoding="latin1") as fi:
         new_data = fi.read().splitlines()
     new_date = new_data[-1].split(",")[0]
 
     # append new data and save
-    with open(main_file, "a", encoding="utf-8") as fi:
+    with open(main_file, "a", encoding="latin1") as fi:
         for _ in new_data:
             fi.write(f"{_}\n")
 
     # check new date is date of last line in main_file:
-    with open(main_file, "r", encoding="utf-8") as fi:
+    with open(main_file, "r", encoding="latin1") as fi:
         complete_data = fi.read().splitlines()
     if new_date == complete_data[-1].split(",")[0]:
         logging.info("Data from %s appended to %s", str(new_date[0]), main_file)
@@ -863,6 +865,7 @@ def main():
     """Run main function"""
     set_up_logger(LOG_FILEPATH_COMB)
     logging.info("######################## %s #######################", TODAY)
+#    main_files = [FLIGHTS_DATA_FP]
     main_files = [EZY_JSON_FP, ALL_FLIGHTS_FP, FLIGHTS_DATA_FP]
     airlines = ["easyJet Europe", "easyJet UK", "easyJet Switzerland"]
     for main_file in main_files:
@@ -900,6 +903,8 @@ def main():
             logging.info("# # # # # # # #  All scrapers complete  # # # # # # # #")
 
 if __name__ == "__main__":
-    main()
-    # add_data_json("./data/BERall_flights_plus.json", "./data/BERall_flights_plus_2023_08_03-03.json")
-    # clean_up("./data/BERall_flights_plus.json")
+    # main()
+
+    add_data_csv("./data/flight_data_plus.csv", "./data/flight_data_plus_2023_08_12-03.csv")
+    clean_up("./data/flight_data_plus.csv")
+    # all_airlines_scrape()

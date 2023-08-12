@@ -38,7 +38,7 @@ def git_push_routine(files: list = None):
     logging.info("changed to git folder")
 
     # hardcoded
-    # cp_files = subprocess.Popen(["cp", "/usr/python/combined_scraper/data/*_plus*", 
+    # cp_files = subprocess.Popen("cp /usr/python/combined_scraper/data/*_plus* .") 
     cp_files = subprocess.Popen("cp /usr/python/combined_scraper/data/*_plus* /usr/python/combined_scraper/databackups_auto/", shell=True)
     time.sleep(2)                       
     logging.info("files copied from ../data/, code: %s", cp_files.poll())
