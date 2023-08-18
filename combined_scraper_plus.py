@@ -400,7 +400,7 @@ def dep_arr(filepath: str = FLIGHTS_DATA_FP):
     flight_nums = driver.find_elements("class name", "mainflight")
     flight_infos = driver.find_elements("class name", "info")
     flight_status = driver.find_elements("class name", "flight-status")
-    logging.info("%s departures recorded for %s.", len(flight_nums), YESTERDAY)
+    logging.info("%s departures recorded for %s. Cleaning data.", len(flight_nums), YESTERDAY)
 
     # create updated status list pulled data
     flight_status_corrected = []
@@ -577,7 +577,7 @@ def dep_arr(filepath: str = FLIGHTS_DATA_FP):
     arr_flight_nums = driver.find_elements("class name", "mainflight")
     arr_flight_infos = driver.find_elements("class name", "info")
     arr_flight_status = driver.find_elements("class name", "flight-status")
-    logging.info("%s arrivals recorded for %s.", len(flight_nums), YESTERDAY)
+    logging.info("%s arrivals recorded for %s. Cleaning data.", len(arr_flight_nums), YESTERDAY)
 
     # create updated status list of pulled data
     arr_flight_status_corrected = []
@@ -828,6 +828,47 @@ def files_identical(fi_lst: list):
     return False
 
 
+def two_out_of_three(fi_lst: list):
+    """Return name on of two identical files or None.
+
+    Args:
+        fi_lst (list): which files two check
+
+    Returns:
+        _type_: Filename or None.
+    """
+    contents = []
+    for fi in fi_lst:
+        with open(fi, "r", encoding="utf-8") as file:
+            contents.append(file.read())
+    if contents[0] == contents[1]:
+        logging.info(
+            "%s and %s identical, using first",
+            fi_lst[0].split(".")[0].split("/")[-1],
+            fi_lst[1].split(".")[0].split("/")[-1],
+        )
+        return fi_lst[0]
+    if contents[0] == contents[2]:
+        logging.info(
+            "%s and %s identical, using first",
+            fi_lst[0].split(".")[0].split("/")[-1],
+            fi_lst[2].split(".")[0].split("/")[-1],
+        )
+        return fi_lst[0]
+    if contents[1] == contents[2]:
+        logging.info(
+            "%s and %s identical, using first",
+            fi_lst[1].split(".")[0].split("/")[-1],
+            fi_lst[2].split(".")[0].split("/")[-1],
+        )
+        return fi_lst[1]
+    logging.warning(
+        "%s - all three files differ.",
+        fi_lst[0].split("_2023")[0].split("/")[-1],
+    )
+    return None
+
+
 def check_iter(
     ezys_fp: str = EZY_JSON_FP,
     all_als_fp: str = ALL_FLIGHTS_FP,
@@ -898,13 +939,33 @@ def main():
                     if add_data_csv(main_file=main_file, new_data_fp=file_lst[-1]):
                         logging.info("Deleting iterations of %s", main_file)
                         clean_up(fi_path=main_file)
-                send_mail()
+            elif two_out_of_three(fi_lst=file_lst):
+                logging.info(
+                    "Found two identical files for %s",
+                    file_lst[0].split("_2023")[0].split("/")[-1],
+                )
+                if file_lst[-1].split(".")[-1] == "json":
+                    if add_data_json(main_file=main_file, new_data_fp=two_out_of_three(fi_lst=file_lst)):
+                        logging.info("Deleting iterations of %s", main_file)
+                        clean_up(fi_path=main_file)
+                elif file_lst[-1].split(".")[-1] == "csv":
+                    if add_data_csv(main_file=main_file, new_data_fp=two_out_of_three(fi_lst=file_lst)):
+                        logging.info("Deleting iterations of %s", main_file)
+                        clean_up(fi_path=main_file)
+            else:
+                logging.warning("File clean up not executed, check contents!")
 
             logging.info("# # # # # # # #  All scrapers complete  # # # # # # # #")
+            send_mail()
+
 
 if __name__ == "__main__":
-    # main()
+    main()
 
-    add_data_csv("./data/flight_data_plus.csv", "./data/flight_data_plus_2023_08_12-03.csv")
-    clean_up("./data/flight_data_plus.csv")
+
+    # add_data_json("./data/BERall_flights_plus.json", "./data/BERall_flights_plus_2023_08_13-03.json")
+    # clean_up("./data/BERall_flights_plus.json")
+    
+    # add_data_csv("./data/flight_data_plus.csv", "./data/flight_data_plus_2023_08_12-03.csv")
+    # clean_up("./data/flight_data_plus.csv")
     # all_airlines_scrape()
