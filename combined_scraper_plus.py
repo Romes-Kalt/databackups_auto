@@ -400,7 +400,7 @@ def dep_arr(filepath: str = FLIGHTS_DATA_FP):
     flight_nums = driver.find_elements("class name", "mainflight")
     flight_infos = driver.find_elements("class name", "info")
     flight_status = driver.find_elements("class name", "flight-status")
-    logging.info("%s departures recorded for %s. Cleaning data.", len(flight_nums), YESTERDAY)
+    logging.info("%s departures recorded for %s . Cleaning data.", len(flight_nums), YESTERDAY)
 
     # create updated status list pulled data
     flight_status_corrected = []
@@ -449,7 +449,7 @@ def dep_arr(filepath: str = FLIGHTS_DATA_FP):
             these_codes = "---"
         codeshare.append(these_codes)
     logging.info(
-        "Number of departures recorded %s in json-project: " "%s.",
+        "Number of departures recorded %s in json-project: " "%s .",
         YESTERDAY,
         num_of_flights_from_yesterday_json_project(),
     )
@@ -577,7 +577,7 @@ def dep_arr(filepath: str = FLIGHTS_DATA_FP):
     arr_flight_nums = driver.find_elements("class name", "mainflight")
     arr_flight_infos = driver.find_elements("class name", "info")
     arr_flight_status = driver.find_elements("class name", "flight-status")
-    logging.info("%s arrivals recorded for %s. Cleaning data.", len(arr_flight_nums), YESTERDAY)
+    logging.info("%s arrivals recorded for %s . Cleaning data.", len(arr_flight_nums), YESTERDAY)
 
     # create updated status list of pulled data
     arr_flight_status_corrected = []
@@ -679,6 +679,7 @@ def find_text(
     beginning: bool = True,
     seperator: str = " ",
     anywhere: bool = False,
+    contains_numeric: bool = False,
 ):
     """Return lines of text file as list if what inside
 
@@ -687,7 +688,8 @@ def find_text(
         log_path (_type_, optional): which file. Defaults to "C:/users/rokar/onedrive/desktop/""combined_scraper/log/combined_scraper.log".
         beginning (bool, optional): is what the beginning of line. Defaults to True.
         seperator (str, optional): define seperator. Defaults to " ".
-        anywhere (bool, optional): no separation of line. Defaults to False.
+        anywhere (bool, optional): no separation of line. Defaults to False. Beginning True overrides this to True.
+        contains_numeric (bool, oprional): contains at least one numeric value only. Defaults to false.
 
     Returns:
         (list, None): found lines or None
@@ -696,18 +698,51 @@ def find_text(
         anywhere = False
     with open(log_path, "r", encoding="utf-8") as file:
         raw = file.read().splitlines()
+    found = []
+    found_ = []
     if beginning:
-        return [_ for _ in raw if _.split(seperator)[0] == what]
-    if anywhere:
-        return [_ for _ in raw if what in _]
-    return None
+        found = [_ for _ in raw if _.split(seperator)[0] == what]
+    elif anywhere:
+        found = [_ for _ in raw if what in _]
+    if contains_numeric:
+        for l in found:
+            for _ in l.split(" "):
+                if _.isnumeric():
+                    found_.append(l)
+                    break
+    if found_:
+        return found_
+    return found
+
+
+def extract_number_logs(log_path: str = LOG_FILEPATH_COMB):
+    """Return lines of text file as list if a number by itself is inside.
+
+    Args:
+        log_path (_type_, optional): which file. LOG_FILEPATH_COMB.
+
+    Returns:
+        (list, None): found lines or None
+    """
+
+    with open(log_path, "r", encoding="utf-8") as file:
+        raw = file.read().splitlines()
+
+    lst = []
+    for l in raw:
+        for _ in l.split(" "):
+            if _.isnumeric():
+                lst.append(l)
+                break
+    return lst
 
 
 def send_mail(to_address: str = "rokaruto@googlemail.com"):
     """Send email."""
     logging.info("Preparing to send email to %s", to_address)
     mail_text = f"Subject: combined_scraper.log for {TODAY}\n\n"
-    logs = find_text(what=TODAY.replace("_", "-"))
+    logs = find_text(what=TODAY.replace("_", "-"), contains_numeric=True)
+    # logs = extract_number_logs()
     for _ in logs:
         mail_text += f"{_}\n"
     logging.info("%s lines appended to mail text.", len(logs))
@@ -962,6 +997,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+    # send_mail()
 
     # add_data_json("./data/BERall_flights_plus.json", "./data/BERall_flights_plus_2023_08_13-03.json")
     # clean_up("./data/BERall_flights_plus.json")
