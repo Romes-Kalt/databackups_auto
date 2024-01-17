@@ -162580,4 +162580,130 @@
       }
     }
   }
+,
+  "2024_01_15": {
+    "Total flights": 12,
+    "easyJet Europe": {
+      "Total flights": 10,
+      "5057": {
+        "Departure": "06:25",
+        "IATA Code": "VCE",
+        "Destination": "Venedig"
+      },
+      "5261": {
+        "Departure": "07:10",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "5191": {
+        "Departure": "10:35",
+        "IATA Code": "BSL",
+        "Destination": "Basel"
+      },
+      "5113": {
+        "Departure": "11:15",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      },
+      "5103": {
+        "Departure": "11:25",
+        "IATA Code": "VLC",
+        "Destination": "Valencia"
+      },
+      "5079": {
+        "Departure": "13:00",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      },
+      "5121": {
+        "Departure": "13:15",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "5065": {
+        "Departure": "13:30",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "8630": {
+        "Departure": "18:15",
+        "IATA Code": "LGW",
+        "Destination": "London LGW"
+      },
+      "5247": {
+        "Departure": "18:25",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "2602": {
+        "Departure": "10:30",
+        "IATA Code": "LTN",
+        "Destination": "London LTN"
+      },
+      "3262": {
+        "Departure": "16:10",
+        "IATA Code": "EDI",
+        "Destination": "Edinburgh"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_01_16": {
+    "Total flights": 8,
+    "easyJet Europe": {
+      "Total flights": 8,
+      "5369": {
+        "Departure": "07:10",
+        "IATA Code": "HRG",
+        "Destination": "Hurghada"
+      },
+      "5109": {
+        "Departure": "07:15",
+        "IATA Code": "ACE",
+        "Destination": "Lanzarote"
+      },
+      "5365": {
+        "Departure": "08:25",
+        "IATA Code": "PRN",
+        "Destination": "Pristina International Airport"
+      },
+      "5051": {
+        "Departure": "09:30",
+        "IATA Code": "NAP",
+        "Destination": "Neapel"
+      },
+      "5101": {
+        "Departure": "11:20",
+        "IATA Code": "FUE",
+        "Destination": "Fuerteventura"
+      },
+      "5111": {
+        "Departure": "11:20",
+        "IATA Code": "LPA",
+        "Destination": "Gran Canaria"
+      },
+      "5065": {
+        "Departure": "13:25",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5105": {
+        "Departure": "14:50",
+        "IATA Code": "AGP",
+        "Destination": "Malaga"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
 }
