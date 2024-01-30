@@ -103,11 +103,16 @@ def send_mail(to_address: str = "rokaruto@googlemail.com"):
     for _ in logs:
         mail_text += f"{_}\n"
     logging.info("%s lines appended to mail text.", len(logs))
-    with smtplib.SMTP("smtp.mail.yahoo.com") as connection:
+#    with smtplib.SMTP("smtp.mail.yahoo.com") as connection:
+#        connection.starttls()
+#        connection.login(user="ch405_15_0rd3r@yahoo.com", password="ahsdtmbcfyyekdfw")
+#        connection.sendmail(
+#            from_addr="ch405_15_0rd3r@yahoo.com",
+    with smtplib.SMTP("smtp.gmail.com", 587) as connection:
         connection.starttls()
-        connection.login(user="ch405_15_0rd3r@yahoo.com", password="ahsdtmbcfyyekdfw")
+        connection.login(user="ch405.15.0rd3r@gmail.com", password="xqeubjnappqgwavr")
         connection.sendmail(
-            from_addr="ch405_15_0rd3r@yahoo.com",
+            from_addr="ch405.15.0rd3r@gmail.com",
             to_addrs=to_address,
             msg=mail_text,
         )
