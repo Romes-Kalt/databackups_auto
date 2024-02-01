@@ -1,0 +1,49 @@
+{
+  "2024_01_31": {
+    "Total flights": 7,
+    "easyJet Europe": {
+      "Total flights": 7,
+      "5381": {
+        "Departure": "08:30",
+        "IATA Code": "SPC",
+        "Destination": "La Palma"
+      },
+      "4076": {
+        "Departure": "10:00",
+        "IATA Code": "VCE",
+        "Destination": "Venedig"
+      },
+      "5113": {
+        "Departure": "11:00",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      },
+      "5333": {
+        "Departure": "12:55",
+        "IATA Code": "FNC",
+        "Destination": "Funchal"
+      },
+      "5065": {
+        "Departure": "13:30",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "5263": {
+        "Departure": "18:30",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "4876": {
+        "Departure": "20:30",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+}

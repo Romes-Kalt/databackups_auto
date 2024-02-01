@@ -1,0 +1,918 @@
+{
+  "2024_01_31": {
+    "TOTAL": 158,
+    "Ryanair": {
+      "total": 26,
+      "FR 2502": {
+        "Departure": "06:00",
+        "IATA Code": "LPA",
+        "Destination": "Gran Canaria"
+      },
+      "FR 3354": {
+        "Departure": "06:20",
+        "IATA Code": "FUE",
+        "Destination": "Fuerteventura"
+      },
+      "FR  257": {
+        "Departure": "06:30",
+        "IATA Code": "ALC",
+        "Destination": "Alicante"
+      },
+      "FR 6638": {
+        "Departure": "06:55",
+        "IATA Code": "VNO",
+        "Destination": "Vilnius"
+      },
+      "FR 2599": {
+        "Departure": "07:05",
+        "IATA Code": "RIX",
+        "Destination": "Riga"
+      },
+      "FR 3309": {
+        "Departure": "07:15",
+        "IATA Code": "BRI",
+        "Destination": "Bari"
+      },
+      "FR 1144": {
+        "Departure": "09:15",
+        "IATA Code": "MAN",
+        "Destination": "Manchester"
+      },
+      "FR  144": {
+        "Departure": "09:50",
+        "IATA Code": "STN",
+        "Destination": "London STN"
+      },
+      "FR 3670": {
+        "Departure": "10:10",
+        "IATA Code": "DUB",
+        "Destination": "Dublin"
+      },
+      "FR  234": {
+        "Departure": "10:55",
+        "IATA Code": "AGP",
+        "Destination": "Malaga"
+      },
+      "FR  110": {
+        "Departure": "11:55",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "FR  040": {
+        "Departure": "12:15",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      },
+      "FR 3388": {
+        "Departure": "12:25",
+        "IATA Code": "MRS",
+        "Destination": "Marseille"
+      },
+      "FR 2418": {
+        "Departure": "12:40",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      },
+      "FR  196": {
+        "Departure": "14:00",
+        "IATA Code": "BUD",
+        "Destination": "Budapest"
+      },
+      "FR 3390": {
+        "Departure": "14:05",
+        "IATA Code": "BGY",
+        "Destination": "Mailand BGY"
+      },
+      "FR  146": {
+        "Departure": "14:15",
+        "IATA Code": "STN",
+        "Destination": "London STN"
+      },
+      "FR 1142": {
+        "Departure": "14:55",
+        "IATA Code": "LIS",
+        "Destination": "Lissabon"
+      },
+      "FR  132": {
+        "Departure": "16:10",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "FR 9956": {
+        "Departure": "16:30",
+        "IATA Code": "PSA",
+        "Destination": "Pisa"
+      },
+      "FR 5419": {
+        "Departure": "17:45",
+        "IATA Code": "DUB",
+        "Destination": "Dublin"
+      },
+      "FR 9164": {
+        "Departure": "18:00",
+        "IATA Code": "TSF",
+        "Destination": "Treviso"
+      },
+      "FR  353": {
+        "Departure": "20:00",
+        "IATA Code": "PFO",
+        "Destination": "Paphos"
+      },
+      "FR 2946": {
+        "Departure": "20:30",
+        "IATA Code": "OPO",
+        "Destination": "Porto"
+      },
+      "FR  177": {
+        "Departure": "21:30",
+        "IATA Code": "STN",
+        "Destination": "London STN"
+      },
+      "FR  134": {
+        "Departure": "21:45",
+        "IATA Code": "FCO",
+        "Destination": "Rom FCO"
+      }
+    },
+    "KLM Royal Dutch Airlines": {
+      "total": 7,
+      "KL 1818": {
+        "Departure": "06:00",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1822": {
+        "Departure": "10:10",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1824": {
+        "Departure": "11:50",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1826": {
+        "Departure": "14:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1830": {
+        "Departure": "16:30",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1832": {
+        "Departure": "18:25",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      },
+      "KL 1834": {
+        "Departure": "21:50",
+        "IATA Code": "AMS",
+        "Destination": "Amsterdam"
+      }
+    },
+    "Lufthansa": {
+      "total": 22,
+      "LH 1957": {
+        "Departure": "06:15",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  173": {
+        "Departure": "06:25",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1959": {
+        "Departure": "07:15",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  175": {
+        "Departure": "07:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH  177": {
+        "Departure": "08:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1929": {
+        "Departure": "09:00",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  181": {
+        "Departure": "09:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1931": {
+        "Departure": "10:00",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  183": {
+        "Departure": "10:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1935": {
+        "Departure": "11:00",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  185": {
+        "Departure": "11:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH  187": {
+        "Departure": "12:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 2207": {
+        "Departure": "12:50",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  189": {
+        "Departure": "13:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH  191": {
+        "Departure": "14:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1941": {
+        "Departure": "15:45",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH 1943": {
+        "Departure": "16:45",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  197": {
+        "Departure": "17:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH  199": {
+        "Departure": "18:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1949": {
+        "Departure": "19:00",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      },
+      "LH  201": {
+        "Departure": "19:40",
+        "IATA Code": "FRA",
+        "Destination": "Frankfurt"
+      },
+      "LH 1955": {
+        "Departure": "21:00",
+        "IATA Code": "MUC",
+        "Destination": "München"
+      }
+    },
+    "Fly Baghdad": {
+      "total": 1,
+      "IF  114": {
+        "Departure": "06:30",
+        "IATA Code": "BGW",
+        "Destination": "Baghdad"
+      }
+    },
+    "Eurowings": {
+      "total": 16,
+      "EW 8590": {
+        "Departure": "06:35",
+        "IATA Code": "PMI",
+        "Destination": "Palma de Mallorca"
+      },
+      "EW 8000": {
+        "Departure": "06:45",
+        "IATA Code": "STR",
+        "Destination": "Stuttgart"
+      },
+      "EW 8040": {
+        "Departure": "06:45",
+        "IATA Code": "DUS",
+        "Destination": "Düsseldorf"
+      },
+      "EW 1150": {
+        "Departure": "07:10",
+        "IATA Code": "DXB",
+        "Destination": "Dubai"
+      },
+      "EW 8234": {
+        "Departure": "08:00",
+        "IATA Code": "RVN",
+        "Destination": "Rovaniemi"
+      },
+      "EW  013": {
+        "Departure": "08:35",
+        "IATA Code": "CGN",
+        "Destination": "Köln/Bonn"
+      },
+      "EW 8042": {
+        "Departure": "13:30",
+        "IATA Code": "DUS",
+        "Destination": "Düsseldorf"
+      },
+      "EW 4601": {
+        "Departure": "14:10",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      },
+      "EW 8006": {
+        "Departure": "14:15",
+        "IATA Code": "STR",
+        "Destination": "Stuttgart"
+      },
+      "EW 8760": {
+        "Departure": "15:15",
+        "IATA Code": "INN",
+        "Destination": "Innsbruck"
+      },
+      "EW 9049": {
+        "Departure": "15:25",
+        "IATA Code": "DUS",
+        "Destination": "Düsseldorf"
+      },
+      "EW 2005": {
+        "Departure": "16:40",
+        "IATA Code": "STR",
+        "Destination": "Stuttgart"
+      },
+      "EW  007": {
+        "Departure": "16:50",
+        "IATA Code": "CGN",
+        "Destination": "Köln/Bonn"
+      },
+      "EW  051": {
+        "Departure": "18:50",
+        "IATA Code": "CGN",
+        "Destination": "Köln/Bonn"
+      },
+      "EW  019": {
+        "Departure": "19:45",
+        "IATA Code": "CGN",
+        "Destination": "Köln/Bonn"
+      },
+      "EW 2021": {
+        "Departure": "20:25",
+        "IATA Code": "STR",
+        "Destination": "Stuttgart"
+      }
+    },
+    "British Airways": {
+      "total": 10,
+      "BA  981": {
+        "Departure": "06:40",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA 8490": {
+        "Departure": "06:55",
+        "IATA Code": "LCY",
+        "Destination": "London City Airport"
+      },
+      "BA  991": {
+        "Departure": "11:00",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA 8492": {
+        "Departure": "11:55",
+        "IATA Code": "LCY",
+        "Destination": "London City Airport"
+      },
+      "BA  993": {
+        "Departure": "12:40",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA  983": {
+        "Departure": "14:00",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA  985": {
+        "Departure": "16:45",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA 8494": {
+        "Departure": "17:00",
+        "IATA Code": "LCY",
+        "Destination": "London City Airport"
+      },
+      "BA  995": {
+        "Departure": "17:40",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      },
+      "BA  987": {
+        "Departure": "19:45",
+        "IATA Code": "LHR",
+        "Destination": "London LHR"
+      }
+    },
+    "Turkish Airlines": {
+      "total": 6,
+      "TK 1728": {
+        "Departure": "06:40",
+        "IATA Code": "IST",
+        "Destination": "Istanbul Airport"
+      },
+      "TK 1722": {
+        "Departure": "11:10",
+        "IATA Code": "IST",
+        "Destination": "Istanbul Airport"
+      },
+      "TK 7729": {
+        "Departure": "13:40",
+        "IATA Code": "SAW",
+        "Destination": "Istanbul SAW"
+      },
+      "TK 1726": {
+        "Departure": "14:20",
+        "IATA Code": "IST",
+        "Destination": "Istanbul Airport"
+      },
+      "TK 1724": {
+        "Departure": "19:00",
+        "IATA Code": "IST",
+        "Destination": "Istanbul Airport"
+      },
+      "TK 6928": {
+        "Departure": "22:20",
+        "IATA Code": "IST",
+        "Destination": "Istanbul Airport"
+      }
+    },
+    "Air France": {
+      "total": 5,
+      "AF 1135": {
+        "Departure": "06:55",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "AF 1435": {
+        "Departure": "10:15",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "AF 1735": {
+        "Departure": "12:25",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "AF 1235": {
+        "Departure": "15:45",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      },
+      "AF 1535": {
+        "Departure": "20:15",
+        "IATA Code": "CDG",
+        "Destination": "Paris CDG"
+      }
+    },
+    "IBERIA Express": {
+      "total": 2,
+      "I2 3673": {
+        "Departure": "07:00",
+        "IATA Code": "MAD",
+        "Destination": "Madrid"
+      },
+      "I2 3671": {
+        "Departure": "19:50",
+        "IATA Code": "MAD",
+        "Destination": "Madrid"
+      }
+    },
+    "Swiss": {
+      "total": 7,
+      "LX  963": {
+        "Departure": "07:00",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  975": {
+        "Departure": "09:35",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  977": {
+        "Departure": "10:50",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  967": {
+        "Departure": "14:45",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  971": {
+        "Departure": "18:40",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  983": {
+        "Departure": "19:45",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      },
+      "LX  979": {
+        "Departure": "20:40",
+        "IATA Code": "ZRH",
+        "Destination": "Zürich"
+      }
+    },
+    "Austrian Airlines": {
+      "total": 6,
+      "OS  240": {
+        "Departure": "07:00",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      },
+      "OS  224": {
+        "Departure": "09:10",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      },
+      "OS  226": {
+        "Departure": "11:20",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      },
+      "OS  230": {
+        "Departure": "15:10",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      },
+      "OS  232": {
+        "Departure": "17:05",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      },
+      "OS  236": {
+        "Departure": "19:40",
+        "IATA Code": "VIE",
+        "Destination": "Wien"
+      }
+    },
+    "Brussels Airlines": {
+      "total": 3,
+      "SN 2592": {
+        "Departure": "07:10",
+        "IATA Code": "BRU",
+        "Destination": "Brüssel"
+      },
+      "SN 2582": {
+        "Departure": "11:55",
+        "IATA Code": "BRU",
+        "Destination": "Brüssel"
+      },
+      "SN 2588": {
+        "Departure": "18:40",
+        "IATA Code": "BRU",
+        "Destination": "Brüssel"
+      }
+    },
+    "easyJet Europe": {
+      "total": 7,
+      "EJU5381": {
+        "Departure": "08:30",
+        "IATA Code": "SPC",
+        "Destination": "La Palma"
+      },
+      "EJU4076": {
+        "Departure": "10:00",
+        "IATA Code": "VCE",
+        "Destination": "Venedig"
+      },
+      "EJU5113": {
+        "Departure": "11:00",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      },
+      "EJU5333": {
+        "Departure": "12:55",
+        "IATA Code": "FNC",
+        "Destination": "Funchal"
+      },
+      "EJU5065": {
+        "Departure": "13:30",
+        "IATA Code": "LIN",
+        "Destination": "Mailand LIN"
+      },
+      "EJU5263": {
+        "Departure": "18:30",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      },
+      "EJU4876": {
+        "Departure": "20:30",
+        "IATA Code": "ORY",
+        "Destination": "Paris Orly"
+      }
+    },
+    "Danish Air Transport": {
+      "total": 2,
+      "DX  122": {
+        "Departure": "08:40",
+        "IATA Code": "SCN",
+        "Destination": "Saarbrücken"
+      },
+      "DX  126": {
+        "Departure": "19:50",
+        "IATA Code": "SCN",
+        "Destination": "Saarbrücken"
+      }
+    },
+    "Finnair": {
+      "total": 3,
+      "AY 1432": {
+        "Departure": "08:45",
+        "IATA Code": "HEL",
+        "Destination": "Helsinki"
+      },
+      "AY 1434": {
+        "Departure": "13:05",
+        "IATA Code": "HEL",
+        "Destination": "Helsinki"
+      },
+      "AY 1436": {
+        "Departure": "19:10",
+        "IATA Code": "HEL",
+        "Destination": "Helsinki"
+      }
+    },
+    "Qatar Airways": {
+      "total": 2,
+      "QR  080": {
+        "Departure": "09:00",
+        "IATA Code": "DOH",
+        "Destination": "Doha"
+      },
+      "QR  082": {
+        "Departure": "15:15",
+        "IATA Code": "DOH",
+        "Destination": "Doha"
+      }
+    },
+    "Wizz Air": {
+      "total": 3,
+      "W6 2316": {
+        "Departure": "09:05",
+        "IATA Code": "BUD",
+        "Destination": "Budapest"
+      },
+      "W6 4010": {
+        "Departure": "21:20",
+        "IATA Code": "BEG",
+        "Destination": "Belgrad"
+      },
+      "W6 7740": {
+        "Departure": "21:25",
+        "IATA Code": "SKP",
+        "Destination": "Skopje"
+      }
+    },
+    "SUNDAIR": {
+      "total": 1,
+      "SR 3138": {
+        "Departure": "09:45",
+        "IATA Code": "TFS",
+        "Destination": "Teneriffa"
+      }
+    },
+    "United Airlines": {
+      "total": 1,
+      "UA  963": {
+        "Departure": "09:55",
+        "IATA Code": "EWR",
+        "Destination": "New York EWR"
+      }
+    },
+    "Aer Lingus": {
+      "total": 1,
+      "EI  333": {
+        "Departure": "10:20",
+        "IATA Code": "DUB",
+        "Destination": "Dublin"
+      }
+    },
+    "Scoot": {
+      "total": 1,
+      "TR  721": {
+        "Departure": "10:20",
+        "IATA Code": "SIN",
+        "Destination": "Singapur"
+      }
+    },
+    "EL AL - Israel Airlines": {
+      "total": 1,
+      "LY 2372": {
+        "Departure": "10:35",
+        "IATA Code": "TLV",
+        "Destination": "Tel Aviv"
+      }
+    },
+    "Vueling Airlines": {
+      "total": 2,
+      "VY 1883": {
+        "Departure": "10:45",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      },
+      "VY 1885": {
+        "Departure": "21:55",
+        "IATA Code": "BCN",
+        "Destination": "Barcelona"
+      }
+    },
+    "LOT Polish Airlines": {
+      "total": 2,
+      "LO  388": {
+        "Departure": "11:15",
+        "IATA Code": "WAW",
+        "Destination": "Warschau"
+      },
+      "LO  390": {
+        "Departure": "18:40",
+        "IATA Code": "WAW",
+        "Destination": "Warschau"
+      }
+    },
+    "Sky Alps": {
+      "total": 1,
+      "BQ 1951": {
+        "Departure": "11:25",
+        "IATA Code": "BZO",
+        "Destination": "Bozen"
+      }
+    },
+    "Aegean Airlines": {
+      "total": 1,
+      "A3  821": {
+        "Departure": "11:40",
+        "IATA Code": "ATH",
+        "Destination": "Athen"
+      }
+    },
+    "IBERIA": {
+      "total": 1,
+      "IB 3067": {
+        "Departure": "11:40",
+        "IATA Code": "MAD",
+        "Destination": "Madrid"
+      }
+    },
+    "SAS-Scandinavian Airlines System": {
+      "total": 2,
+      "SK 2678": {
+        "Departure": "11:45",
+        "IATA Code": "ARN",
+        "Destination": "Stockholm ARN"
+      },
+      "SK 1674": {
+        "Departure": "15:55",
+        "IATA Code": "CPH",
+        "Destination": "Kopenhagen"
+      }
+    },
+    "Pegasus Airlines": {
+      "total": 3,
+      "PC  978": {
+        "Departure": "12:00",
+        "IATA Code": "SAW",
+        "Destination": "Istanbul SAW"
+      },
+      "PC 5008": {
+        "Departure": "12:10",
+        "IATA Code": "AYT",
+        "Destination": "Antalya"
+      },
+      "PC  980": {
+        "Departure": "15:30",
+        "IATA Code": "SAW",
+        "Destination": "Istanbul SAW"
+      }
+    },
+    "Bulgaria Air": {
+      "total": 1,
+      "FB  320": {
+        "Departure": "12:20",
+        "IATA Code": "SOF",
+        "Destination": "Sofia"
+      }
+    },
+    "TAP Air Portugal": {
+      "total": 1,
+      "TP  531": {
+        "Departure": "12:50",
+        "IATA Code": "LIS",
+        "Destination": "Lissabon"
+      }
+    },
+    "Hainan Airlines": {
+      "total": 1,
+      "HU  490": {
+        "Departure": "12:55",
+        "IATA Code": "PEK",
+        "Destination": "Peking"
+      }
+    },
+    "Sun Express": {
+      "total": 2,
+      "XQ  161": {
+        "Departure": "13:25",
+        "IATA Code": "AYT",
+        "Destination": "Antalya"
+      },
+      "XQ  947": {
+        "Departure": "13:55",
+        "IATA Code": "ADB",
+        "Destination": "Izmir ADB"
+      }
+    },
+    "Norwegian Air Shuttle AOC": {
+      "total": 1,
+      "DY 1105": {
+        "Departure": "13:35",
+        "IATA Code": "OSL",
+        "Destination": "Oslo"
+      }
+    },
+    "Wizz Air Malta": {
+      "total": 1,
+      "W4 6612": {
+        "Departure": "14:10",
+        "IATA Code": "TIA",
+        "Destination": "Tirana"
+      }
+    },
+    "Egypt Air": {
+      "total": 1,
+      "MS  732": {
+        "Departure": "14:55",
+        "IATA Code": "CAI",
+        "Destination": "Kairo"
+      }
+    },
+    "Air Malta": {
+      "total": 1,
+      "KM  377": {
+        "Departure": "19:10",
+        "IATA Code": "MLA",
+        "Destination": "Malta"
+      }
+    },
+    "Air Baltic": {
+      "total": 1,
+      "BT  214": {
+        "Departure": "19:40",
+        "IATA Code": "RIX",
+        "Destination": "Riga"
+      }
+    },
+    "Corendon Airlines Europe": {
+      "total": 1,
+      "XR  318": {
+        "Departure": "20:00",
+        "IATA Code": "HRG",
+        "Destination": "Hurghada"
+      }
+    },
+    "Air Serbia": {
+      "total": 1,
+      "JU  355": {
+        "Departure": "20:45",
+        "IATA Code": "BEG",
+        "Destination": "Belgrad"
+      }
+    },
+    "Luxair": {
+      "total": 1,
+      "LG 9474": {
+        "Departure": "20:55",
+        "IATA Code": "LUX",
+        "Destination": "Luxemburg"
+      }
+    }
+  }
+}
