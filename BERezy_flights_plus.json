@@ -30100,4 +30100,4342 @@
       }
     }
   }
+,
+  "2024_07_21": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 36,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:00",
+        "Destination": "BOJ"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5143": {
+        "Departure": "06:35",
+        "Destination": "NCE"
+      },
+      "5051": {
+        "Departure": "06:40",
+        "Destination": "NAP"
+      },
+      "5011": {
+        "Departure": "07:15",
+        "Destination": "PVK"
+      },
+      "5103": {
+        "Departure": "07:35",
+        "Destination": "VLC"
+      },
+      "5365": {
+        "Departure": "07:45",
+        "Destination": "PRN"
+      },
+      "5271": {
+        "Departure": "08:10",
+        "Destination": "CPH"
+      },
+      "5009": {
+        "Departure": "10:15",
+        "Destination": "CHQ"
+      },
+      "7334": {
+        "Departure": "10:35",
+        "Destination": "PMI"
+      },
+      "5123": {
+        "Departure": "11:30",
+        "Destination": "BCN"
+      },
+      "4992": {
+        "Departure": "12:00",
+        "Destination": "TLS"
+      },
+      "5003": {
+        "Departure": "12:05",
+        "Destination": "CFU"
+      },
+      "5263": {
+        "Departure": "12:30",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "12:30",
+        "Destination": "LGW"
+      },
+      "5333": {
+        "Departure": "12:45",
+        "Destination": "FNC"
+      },
+      "7946": {
+        "Departure": "12:55",
+        "Destination": "AMS"
+      },
+      "5055": {
+        "Departure": "13:00",
+        "Destination": "OLB"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:40",
+        "Destination": "SPU"
+      },
+      "5141": {
+        "Departure": "15:00",
+        "Destination": "BOD"
+      },
+      "7173": {
+        "Departure": "15:25",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "16:05",
+        "Destination": "NCE"
+      },
+      "5079": {
+        "Departure": "16:15",
+        "Destination": "FCO"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5183": {
+        "Departure": "18:20",
+        "Destination": "GVA"
+      },
+      "5153": {
+        "Departure": "18:25",
+        "Destination": "ORY"
+      },
+      "5187": {
+        "Departure": "18:35",
+        "Destination": "ZRH"
+      },
+      "5085": {
+        "Departure": "18:50",
+        "Destination": "VCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:50",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:10",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "4634": {
+        "Departure": "21:30",
+        "Destination": "CDG"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "8630": {
+        "Departure": "12:00",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "17:30",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "21:40",
+        "Destination": "EDI"
+      },
+      "2202": {
+        "Departure": "22:20",
+        "Destination": "MAN"
+      },
+      "2604": {
+        "Departure": "22:55",
+        "Destination": "LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "12:10",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_22": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5187": {
+        "Departure": "06:00",
+        "Destination": "ZRH"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "06:05",
+        "Destination": "CPH"
+      },
+      "5105": {
+        "Departure": "06:20",
+        "Destination": "AGP"
+      },
+      "5281": {
+        "Departure": "06:20",
+        "Destination": "AMS"
+      },
+      "5181": {
+        "Departure": "07:00",
+        "Destination": "GVA"
+      },
+      "5007": {
+        "Departure": "07:15",
+        "Destination": "HER"
+      },
+      "5055": {
+        "Departure": "08:00",
+        "Destination": "OLB"
+      },
+      "5211": {
+        "Departure": "08:20",
+        "Destination": "PUY"
+      },
+      "5079": {
+        "Departure": "09:20",
+        "Destination": "FCO"
+      },
+      "5185": {
+        "Departure": "09:30",
+        "Destination": "BSL"
+      },
+      "1792": {
+        "Departure": "09:45",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:25",
+        "Destination": "CTA"
+      },
+      "5363": {
+        "Departure": "11:55",
+        "Destination": "RMF"
+      },
+      "5215": {
+        "Departure": "12:35",
+        "Destination": "SPU"
+      },
+      "5361": {
+        "Departure": "12:45",
+        "Destination": "TIV"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "8622": {
+        "Departure": "13:15",
+        "Destination": "LGW"
+      },
+      "5009": {
+        "Departure": "13:40",
+        "Destination": "CHQ"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5331": {
+        "Departure": "15:10",
+        "Destination": "OPO"
+      },
+      "7173": {
+        "Departure": "15:10",
+        "Destination": "BCN"
+      },
+      "5375": {
+        "Departure": "15:15",
+        "Destination": "QSR"
+      },
+      "5365": {
+        "Departure": "15:40",
+        "Destination": "PRN"
+      },
+      "5053": {
+        "Departure": "17:45",
+        "Destination": "NAP"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:15",
+        "Destination": "LGW"
+      },
+      "5143": {
+        "Departure": "18:20",
+        "Destination": "NCE"
+      },
+      "5189": {
+        "Departure": "18:45",
+        "Destination": "ZRH"
+      },
+      "7338": {
+        "Departure": "19:10",
+        "Destination": "PMI"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "2602": {
+        "Departure": "09:50",
+        "Destination": "LTN"
+      },
+      "6622": {
+        "Departure": "09:50",
+        "Destination": "BHX"
+      },
+      "2200": {
+        "Departure": "10:20",
+        "Destination": "MAN"
+      },
+      "8630": {
+        "Departure": "10:25",
+        "Destination": "LGW"
+      },
+      "3162": {
+        "Departure": "14:30",
+        "Destination": "GLA"
+      },
+      "2934": {
+        "Departure": "16:40",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:35",
+        "Destination": "EDI"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_23": {
+    "Total flights": 37,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "8624": {
+        "Departure": "06:00",
+        "Destination": "LGW"
+      },
+      "5051": {
+        "Departure": "06:20",
+        "Destination": "NAP"
+      },
+      "5281": {
+        "Departure": "06:30",
+        "Destination": "AMS"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5007": {
+        "Departure": "07:10",
+        "Destination": "HER"
+      },
+      "5367": {
+        "Departure": "07:35",
+        "Destination": "LCA"
+      },
+      "5005": {
+        "Departure": "07:45",
+        "Destination": "CFU"
+      },
+      "5373": {
+        "Departure": "07:45",
+        "Destination": "AYT"
+      },
+      "5085": {
+        "Departure": "08:20",
+        "Destination": "VCE"
+      },
+      "5213": {
+        "Departure": "09:25",
+        "Destination": "SPU"
+      },
+      "1792": {
+        "Departure": "09:40",
+        "Destination": "NCE"
+      },
+      "5261": {
+        "Departure": "10:40",
+        "Destination": "CPH"
+      },
+      "5365": {
+        "Departure": "11:15",
+        "Destination": "PRN"
+      },
+      "5211": {
+        "Departure": "13:30",
+        "Destination": "PUY"
+      },
+      "5215": {
+        "Departure": "13:35",
+        "Destination": "SPU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5019": {
+        "Departure": "14:30",
+        "Destination": "PMI"
+      },
+      "5223": {
+        "Departure": "14:40",
+        "Destination": "ZAD"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "15:35",
+        "Destination": "NCE"
+      },
+      "1924": {
+        "Departure": "16:15",
+        "Destination": "BOD"
+      },
+      "5027": {
+        "Departure": "17:05",
+        "Destination": "SKG"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "Destination": "OLB"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5065": {
+        "Departure": "18:30",
+        "Destination": "PSA"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5221": {
+        "Departure": "19:10",
+        "Destination": "RJK"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "21:10",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "22:25",
+        "Destination": "BRS"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_24": {
+    "Total flights": 35,
+    "easyJet Europe": {
+      "Total flights": 31,
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5261": {
+        "Departure": "06:10",
+        "Destination": "CPH"
+      },
+      "5007": {
+        "Departure": "06:20",
+        "Destination": "HER"
+      },
+      "5213": {
+        "Departure": "07:00",
+        "Destination": "SPU"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "Destination": "GVA"
+      },
+      "5013": {
+        "Departure": "07:20",
+        "Destination": "RHO"
+      },
+      "5009": {
+        "Departure": "07:35",
+        "Destination": "CHQ"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "5315": {
+        "Departure": "09:40",
+        "Destination": "ADB"
+      },
+      "7334": {
+        "Departure": "10:40",
+        "Destination": "PMI"
+      },
+      "5113": {
+        "Departure": "11:20",
+        "Destination": "TFS"
+      },
+      "5055": {
+        "Departure": "12:10",
+        "Destination": "OLB"
+      },
+      "5217": {
+        "Departure": "12:35",
+        "Destination": "DBV"
+      },
+      "5125": {
+        "Departure": "13:15",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "13:45",
+        "Destination": "PUY"
+      },
+      "5003": {
+        "Departure": "14:15",
+        "Destination": "CFU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5057": {
+        "Departure": "15:30",
+        "Destination": "CTA"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:45",
+        "Destination": "NAP"
+      },
+      "5103": {
+        "Departure": "15:45",
+        "Destination": "VLC"
+      },
+      "8626": {
+        "Departure": "17:50",
+        "Destination": "LGW"
+      },
+      "5263": {
+        "Departure": "18:00",
+        "Destination": "CPH"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5145": {
+        "Departure": "18:15",
+        "Destination": "NCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "7338": {
+        "Departure": "21:55",
+        "Destination": "PMI"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2604": {
+        "Departure": "11:25",
+        "Destination": "LTN"
+      },
+      "8632": {
+        "Departure": "16:40",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "21:25",
+        "Destination": "BHX"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_07_25": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5365": {
+        "Departure": "06:25",
+        "Destination": "PRN"
+      },
+      "5003": {
+        "Departure": "06:30",
+        "Destination": "CFU"
+      },
+      "5007": {
+        "Departure": "07:00",
+        "Destination": "HER"
+      },
+      "5269": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5367": {
+        "Departure": "07:45",
+        "Destination": "LCA"
+      },
+      "5221": {
+        "Departure": "08:20",
+        "Destination": "RJK"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "7334": {
+        "Departure": "10:30",
+        "Destination": "PMI"
+      },
+      "5189": {
+        "Departure": "11:15",
+        "Destination": "ZRH"
+      },
+      "5211": {
+        "Departure": "12:30",
+        "Destination": "PUY"
+      },
+      "8624": {
+        "Departure": "12:40",
+        "Destination": "LGW"
+      },
+      "5011": {
+        "Departure": "13:05",
+        "Destination": "PVK"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:20",
+        "Destination": "NAP"
+      },
+      "5055": {
+        "Departure": "15:30",
+        "Destination": "OLB"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "17:05",
+        "Destination": "NCE"
+      },
+      "5215": {
+        "Departure": "17:20",
+        "Destination": "SPU"
+      },
+      "5079": {
+        "Departure": "17:40",
+        "Destination": "FCO"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "Destination": "PSA"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:30",
+        "Destination": "CDG"
+      },
+      "4992": {
+        "Departure": "20:35",
+        "Destination": "TLS"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "3262": {
+        "Departure": "16:45",
+        "Destination": "EDI"
+      },
+      "2934": {
+        "Departure": "18:30",
+        "Destination": "BRS"
+      },
+      "2200": {
+        "Departure": "21:10",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 3,
+      "1188": {
+        "Departure": "08:25",
+        "Destination": "BSL"
+      },
+      "1590": {
+        "Departure": "19:15",
+        "Destination": "GVA"
+      },
+      "1190": {
+        "Departure": "22:00",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_26": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5331": {
+        "Departure": "06:10",
+        "Destination": "OPO"
+      },
+      "5361": {
+        "Departure": "06:10",
+        "Destination": "TIV"
+      },
+      "5027": {
+        "Departure": "06:55",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "07:00",
+        "Destination": "LGW"
+      },
+      "5285": {
+        "Departure": "07:45",
+        "Destination": "AMS"
+      },
+      "5189": {
+        "Departure": "08:00",
+        "Destination": "ZRH"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5141": {
+        "Departure": "09:20",
+        "Destination": "BOD"
+      },
+      "5143": {
+        "Departure": "10:20",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:30",
+        "Destination": "CTA"
+      },
+      "5213": {
+        "Departure": "12:05",
+        "Destination": "SPU"
+      },
+      "5055": {
+        "Departure": "12:15",
+        "Destination": "OLB"
+      },
+      "5375": {
+        "Departure": "12:40",
+        "Destination": "QSR"
+      },
+      "5053": {
+        "Departure": "13:00",
+        "Destination": "NAP"
+      },
+      "5009": {
+        "Departure": "13:35",
+        "Destination": "CHQ"
+      },
+      "5079": {
+        "Departure": "14:05",
+        "Destination": "FCO"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:25",
+        "Destination": "SPU"
+      },
+      "7173": {
+        "Departure": "15:15",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "15:50",
+        "Destination": "NCE"
+      },
+      "5121": {
+        "Departure": "16:05",
+        "Destination": "PMI"
+      },
+      "5211": {
+        "Departure": "17:25",
+        "Destination": "PUY"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5085": {
+        "Departure": "18:35",
+        "Destination": "VCE"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5187": {
+        "Departure": "19:10",
+        "Destination": "ZRH"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:30",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "11:35",
+        "Destination": "BHX"
+      },
+      "2934": {
+        "Departure": "16:35",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:45",
+        "Destination": "EDI"
+      },
+      "3162": {
+        "Departure": "17:55",
+        "Destination": "GLA"
+      },
+      "2604": {
+        "Departure": "21:30",
+        "Destination": "LTN"
+      },
+      "2202": {
+        "Departure": "22:30",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_07_27": {
+    "Total flights": 34,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "06:00",
+        "Destination": "PUY"
+      },
+      "5119": {
+        "Departure": "06:05",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:15",
+        "Destination": "BOJ"
+      },
+      "5213": {
+        "Departure": "06:25",
+        "Destination": "SPU"
+      },
+      "8622": {
+        "Departure": "06:45",
+        "Destination": "LGW"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5027": {
+        "Departure": "07:05",
+        "Destination": "SKG"
+      },
+      "5013": {
+        "Departure": "07:45",
+        "Destination": "RHO"
+      },
+      "5053": {
+        "Departure": "07:45",
+        "Destination": "NAP"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "4632": {
+        "Departure": "09:25",
+        "Destination": "CDG"
+      },
+      "5223": {
+        "Departure": "10:20",
+        "Destination": "ZAD"
+      },
+      "7334": {
+        "Departure": "10:45",
+        "Destination": "PMI"
+      },
+      "7173": {
+        "Departure": "11:10",
+        "Destination": "BCN"
+      },
+      "5113": {
+        "Departure": "11:15",
+        "Destination": "TFS"
+      },
+      "5065": {
+        "Departure": "11:30",
+        "Destination": "PSA"
+      },
+      "5283": {
+        "Departure": "12:05",
+        "Destination": "AMS"
+      },
+      "5221": {
+        "Departure": "12:50",
+        "Destination": "RJK"
+      },
+      "5367": {
+        "Departure": "13:45",
+        "Destination": "LCA"
+      },
+      "5007": {
+        "Departure": "14:25",
+        "Destination": "HER"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5373": {
+        "Departure": "14:50",
+        "Destination": "AYT"
+      },
+      "5315": {
+        "Departure": "15:00",
+        "Destination": "ADB"
+      },
+      "5365": {
+        "Departure": "15:20",
+        "Destination": "PRN"
+      },
+      "8624": {
+        "Departure": "15:55",
+        "Destination": "LGW"
+      },
+      "5217": {
+        "Departure": "16:05",
+        "Destination": "DBV"
+      },
+      "1792": {
+        "Departure": "16:40",
+        "Destination": "NCE"
+      },
+      "5005": {
+        "Departure": "17:05",
+        "Destination": "CFU"
+      },
+      "5055": {
+        "Departure": "17:15",
+        "Destination": "OLB"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1188": {
+        "Departure": "13:30",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_28": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 36,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:00",
+        "Destination": "BOJ"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5143": {
+        "Departure": "06:35",
+        "Destination": "NCE"
+      },
+      "5051": {
+        "Departure": "06:40",
+        "Destination": "NAP"
+      },
+      "5011": {
+        "Departure": "07:15",
+        "Destination": "PVK"
+      },
+      "5103": {
+        "Departure": "07:35",
+        "Destination": "VLC"
+      },
+      "5365": {
+        "Departure": "07:45",
+        "Destination": "PRN"
+      },
+      "5271": {
+        "Departure": "08:10",
+        "Destination": "CPH"
+      },
+      "5009": {
+        "Departure": "10:15",
+        "Destination": "CHQ"
+      },
+      "7334": {
+        "Departure": "10:35",
+        "Destination": "PMI"
+      },
+      "5123": {
+        "Departure": "11:30",
+        "Destination": "BCN"
+      },
+      "4992": {
+        "Departure": "12:00",
+        "Destination": "TLS"
+      },
+      "5003": {
+        "Departure": "12:05",
+        "Destination": "CFU"
+      },
+      "5263": {
+        "Departure": "12:30",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "12:30",
+        "Destination": "LGW"
+      },
+      "5333": {
+        "Departure": "12:45",
+        "Destination": "FNC"
+      },
+      "7946": {
+        "Departure": "12:55",
+        "Destination": "AMS"
+      },
+      "5055": {
+        "Departure": "13:00",
+        "Destination": "OLB"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:40",
+        "Destination": "SPU"
+      },
+      "5141": {
+        "Departure": "15:00",
+        "Destination": "BOD"
+      },
+      "7173": {
+        "Departure": "15:25",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "16:05",
+        "Destination": "NCE"
+      },
+      "5079": {
+        "Departure": "16:15",
+        "Destination": "FCO"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5183": {
+        "Departure": "18:20",
+        "Destination": "GVA"
+      },
+      "5153": {
+        "Departure": "18:25",
+        "Destination": "ORY"
+      },
+      "5187": {
+        "Departure": "18:35",
+        "Destination": "ZRH"
+      },
+      "5085": {
+        "Departure": "18:50",
+        "Destination": "VCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:50",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:10",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "4634": {
+        "Departure": "21:30",
+        "Destination": "CDG"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "8630": {
+        "Departure": "12:00",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "17:30",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "21:40",
+        "Destination": "EDI"
+      },
+      "2202": {
+        "Departure": "22:20",
+        "Destination": "MAN"
+      },
+      "2604": {
+        "Departure": "22:55",
+        "Destination": "LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "12:10",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_29": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5187": {
+        "Departure": "06:00",
+        "Destination": "ZRH"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "06:05",
+        "Destination": "CPH"
+      },
+      "5105": {
+        "Departure": "06:20",
+        "Destination": "AGP"
+      },
+      "5281": {
+        "Departure": "06:20",
+        "Destination": "AMS"
+      },
+      "5181": {
+        "Departure": "07:00",
+        "Destination": "GVA"
+      },
+      "5007": {
+        "Departure": "07:15",
+        "Destination": "HER"
+      },
+      "5055": {
+        "Departure": "08:00",
+        "Destination": "OLB"
+      },
+      "5211": {
+        "Departure": "08:20",
+        "Destination": "PUY"
+      },
+      "5079": {
+        "Departure": "09:20",
+        "Destination": "FCO"
+      },
+      "5185": {
+        "Departure": "09:30",
+        "Destination": "BSL"
+      },
+      "1792": {
+        "Departure": "09:45",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:25",
+        "Destination": "CTA"
+      },
+      "5363": {
+        "Departure": "11:55",
+        "Destination": "RMF"
+      },
+      "5215": {
+        "Departure": "12:35",
+        "Destination": "SPU"
+      },
+      "5361": {
+        "Departure": "12:45",
+        "Destination": "TIV"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "8622": {
+        "Departure": "13:15",
+        "Destination": "LGW"
+      },
+      "5009": {
+        "Departure": "13:40",
+        "Destination": "CHQ"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5331": {
+        "Departure": "15:10",
+        "Destination": "OPO"
+      },
+      "7173": {
+        "Departure": "15:10",
+        "Destination": "BCN"
+      },
+      "5375": {
+        "Departure": "15:15",
+        "Destination": "QSR"
+      },
+      "5365": {
+        "Departure": "15:40",
+        "Destination": "PRN"
+      },
+      "5053": {
+        "Departure": "17:45",
+        "Destination": "NAP"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:15",
+        "Destination": "LGW"
+      },
+      "5143": {
+        "Departure": "18:20",
+        "Destination": "NCE"
+      },
+      "5189": {
+        "Departure": "18:45",
+        "Destination": "ZRH"
+      },
+      "7338": {
+        "Departure": "19:10",
+        "Destination": "PMI"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "2602": {
+        "Departure": "09:50",
+        "Destination": "LTN"
+      },
+      "6622": {
+        "Departure": "09:50",
+        "Destination": "BHX"
+      },
+      "2200": {
+        "Departure": "10:20",
+        "Destination": "MAN"
+      },
+      "8630": {
+        "Departure": "10:25",
+        "Destination": "LGW"
+      },
+      "3162": {
+        "Departure": "14:30",
+        "Destination": "GLA"
+      },
+      "2934": {
+        "Departure": "16:40",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:35",
+        "Destination": "EDI"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_30": {
+    "Total flights": 37,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "8624": {
+        "Departure": "06:00",
+        "Destination": "LGW"
+      },
+      "5051": {
+        "Departure": "06:20",
+        "Destination": "NAP"
+      },
+      "5281": {
+        "Departure": "06:30",
+        "Destination": "AMS"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5007": {
+        "Departure": "07:10",
+        "Destination": "HER"
+      },
+      "5367": {
+        "Departure": "07:35",
+        "Destination": "LCA"
+      },
+      "5005": {
+        "Departure": "07:45",
+        "Destination": "CFU"
+      },
+      "5373": {
+        "Departure": "07:45",
+        "Destination": "AYT"
+      },
+      "5085": {
+        "Departure": "08:20",
+        "Destination": "VCE"
+      },
+      "5213": {
+        "Departure": "09:25",
+        "Destination": "SPU"
+      },
+      "1792": {
+        "Departure": "09:40",
+        "Destination": "NCE"
+      },
+      "5261": {
+        "Departure": "10:40",
+        "Destination": "CPH"
+      },
+      "5365": {
+        "Departure": "11:15",
+        "Destination": "PRN"
+      },
+      "5211": {
+        "Departure": "13:30",
+        "Destination": "PUY"
+      },
+      "5215": {
+        "Departure": "13:35",
+        "Destination": "SPU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5019": {
+        "Departure": "14:30",
+        "Destination": "PMI"
+      },
+      "5223": {
+        "Departure": "14:40",
+        "Destination": "ZAD"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "15:35",
+        "Destination": "NCE"
+      },
+      "1924": {
+        "Departure": "16:15",
+        "Destination": "BOD"
+      },
+      "5027": {
+        "Departure": "17:05",
+        "Destination": "SKG"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "Destination": "OLB"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5065": {
+        "Departure": "18:30",
+        "Destination": "PSA"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5221": {
+        "Departure": "19:10",
+        "Destination": "RJK"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "21:10",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "22:25",
+        "Destination": "BRS"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_07_31": {
+    "Total flights": 35,
+    "easyJet Europe": {
+      "Total flights": 31,
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5261": {
+        "Departure": "06:10",
+        "Destination": "CPH"
+      },
+      "5007": {
+        "Departure": "06:20",
+        "Destination": "HER"
+      },
+      "5213": {
+        "Departure": "07:00",
+        "Destination": "SPU"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "Destination": "GVA"
+      },
+      "5013": {
+        "Departure": "07:20",
+        "Destination": "RHO"
+      },
+      "5009": {
+        "Departure": "07:35",
+        "Destination": "CHQ"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "5315": {
+        "Departure": "09:40",
+        "Destination": "ADB"
+      },
+      "7334": {
+        "Departure": "10:40",
+        "Destination": "PMI"
+      },
+      "5113": {
+        "Departure": "11:20",
+        "Destination": "TFS"
+      },
+      "5055": {
+        "Departure": "12:10",
+        "Destination": "OLB"
+      },
+      "5217": {
+        "Departure": "12:35",
+        "Destination": "DBV"
+      },
+      "5125": {
+        "Departure": "13:15",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "13:45",
+        "Destination": "PUY"
+      },
+      "5003": {
+        "Departure": "14:15",
+        "Destination": "CFU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5057": {
+        "Departure": "15:30",
+        "Destination": "CTA"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:45",
+        "Destination": "NAP"
+      },
+      "5103": {
+        "Departure": "15:45",
+        "Destination": "VLC"
+      },
+      "8626": {
+        "Departure": "17:50",
+        "Destination": "LGW"
+      },
+      "5263": {
+        "Departure": "18:00",
+        "Destination": "CPH"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5145": {
+        "Departure": "18:15",
+        "Destination": "NCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "7338": {
+        "Departure": "21:55",
+        "Destination": "PMI"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2604": {
+        "Departure": "11:25",
+        "Destination": "LTN"
+      },
+      "8632": {
+        "Departure": "16:40",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "21:25",
+        "Destination": "BHX"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_08_01": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5365": {
+        "Departure": "06:25",
+        "Destination": "PRN"
+      },
+      "5003": {
+        "Departure": "06:30",
+        "Destination": "CFU"
+      },
+      "5007": {
+        "Departure": "07:00",
+        "Destination": "HER"
+      },
+      "5269": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5367": {
+        "Departure": "07:45",
+        "Destination": "LCA"
+      },
+      "5221": {
+        "Departure": "08:20",
+        "Destination": "RJK"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "7334": {
+        "Departure": "10:30",
+        "Destination": "PMI"
+      },
+      "5189": {
+        "Departure": "11:15",
+        "Destination": "ZRH"
+      },
+      "5211": {
+        "Departure": "12:30",
+        "Destination": "PUY"
+      },
+      "8624": {
+        "Departure": "12:40",
+        "Destination": "LGW"
+      },
+      "5011": {
+        "Departure": "13:05",
+        "Destination": "PVK"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:20",
+        "Destination": "NAP"
+      },
+      "5055": {
+        "Departure": "15:30",
+        "Destination": "OLB"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "17:05",
+        "Destination": "NCE"
+      },
+      "5215": {
+        "Departure": "17:20",
+        "Destination": "SPU"
+      },
+      "5079": {
+        "Departure": "17:40",
+        "Destination": "FCO"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "Destination": "PSA"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:30",
+        "Destination": "CDG"
+      },
+      "4992": {
+        "Departure": "20:35",
+        "Destination": "TLS"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "3262": {
+        "Departure": "16:45",
+        "Destination": "EDI"
+      },
+      "2934": {
+        "Departure": "18:30",
+        "Destination": "BRS"
+      },
+      "2200": {
+        "Departure": "21:10",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 3,
+      "1188": {
+        "Departure": "08:25",
+        "Destination": "BSL"
+      },
+      "1590": {
+        "Departure": "19:15",
+        "Destination": "GVA"
+      },
+      "1190": {
+        "Departure": "22:00",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_02": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 35,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5331": {
+        "Departure": "06:10",
+        "Destination": "OPO"
+      },
+      "5361": {
+        "Departure": "06:10",
+        "Destination": "TIV"
+      },
+      "5027": {
+        "Departure": "06:55",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "07:00",
+        "Destination": "LGW"
+      },
+      "5285": {
+        "Departure": "07:45",
+        "Destination": "AMS"
+      },
+      "5189": {
+        "Departure": "08:00",
+        "Destination": "ZRH"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5141": {
+        "Departure": "09:20",
+        "Destination": "BOD"
+      },
+      "5143": {
+        "Departure": "10:20",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:30",
+        "Destination": "CTA"
+      },
+      "5213": {
+        "Departure": "12:05",
+        "Destination": "SPU"
+      },
+      "5055": {
+        "Departure": "12:15",
+        "Destination": "OLB"
+      },
+      "5375": {
+        "Departure": "12:40",
+        "Destination": "QSR"
+      },
+      "5053": {
+        "Departure": "13:00",
+        "Destination": "NAP"
+      },
+      "5009": {
+        "Departure": "13:35",
+        "Destination": "CHQ"
+      },
+      "5079": {
+        "Departure": "14:05",
+        "Destination": "FCO"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:25",
+        "Destination": "SPU"
+      },
+      "7173": {
+        "Departure": "15:15",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "15:50",
+        "Destination": "NCE"
+      },
+      "5121": {
+        "Departure": "16:05",
+        "Destination": "PMI"
+      },
+      "5211": {
+        "Departure": "17:25",
+        "Destination": "PUY"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5085": {
+        "Departure": "18:35",
+        "Destination": "VCE"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5187": {
+        "Departure": "19:10",
+        "Destination": "ZRH"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:30",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "20:50",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "11:35",
+        "Destination": "BHX"
+      },
+      "2934": {
+        "Departure": "16:35",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:45",
+        "Destination": "EDI"
+      },
+      "3162": {
+        "Departure": "17:55",
+        "Destination": "GLA"
+      },
+      "2604": {
+        "Departure": "21:30",
+        "Destination": "LTN"
+      },
+      "2202": {
+        "Departure": "22:30",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_08_03": {
+    "Total flights": 34,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "06:00",
+        "Destination": "PUY"
+      },
+      "5119": {
+        "Departure": "06:05",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:15",
+        "Destination": "BOJ"
+      },
+      "5213": {
+        "Departure": "06:25",
+        "Destination": "SPU"
+      },
+      "8622": {
+        "Departure": "06:45",
+        "Destination": "LGW"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5027": {
+        "Departure": "07:05",
+        "Destination": "SKG"
+      },
+      "5013": {
+        "Departure": "07:45",
+        "Destination": "RHO"
+      },
+      "5053": {
+        "Departure": "07:45",
+        "Destination": "NAP"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "4632": {
+        "Departure": "09:25",
+        "Destination": "CDG"
+      },
+      "5223": {
+        "Departure": "10:20",
+        "Destination": "ZAD"
+      },
+      "7334": {
+        "Departure": "10:45",
+        "Destination": "PMI"
+      },
+      "7173": {
+        "Departure": "11:10",
+        "Destination": "BCN"
+      },
+      "5113": {
+        "Departure": "11:15",
+        "Destination": "TFS"
+      },
+      "5065": {
+        "Departure": "11:30",
+        "Destination": "PSA"
+      },
+      "5283": {
+        "Departure": "12:05",
+        "Destination": "AMS"
+      },
+      "5221": {
+        "Departure": "12:50",
+        "Destination": "RJK"
+      },
+      "5367": {
+        "Departure": "13:45",
+        "Destination": "LCA"
+      },
+      "5007": {
+        "Departure": "14:25",
+        "Destination": "HER"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5373": {
+        "Departure": "14:50",
+        "Destination": "AYT"
+      },
+      "5315": {
+        "Departure": "15:00",
+        "Destination": "ADB"
+      },
+      "5365": {
+        "Departure": "15:20",
+        "Destination": "PRN"
+      },
+      "8624": {
+        "Departure": "15:55",
+        "Destination": "LGW"
+      },
+      "5217": {
+        "Departure": "16:05",
+        "Destination": "DBV"
+      },
+      "1792": {
+        "Departure": "16:40",
+        "Destination": "NCE"
+      },
+      "5005": {
+        "Departure": "17:05",
+        "Destination": "CFU"
+      },
+      "5055": {
+        "Departure": "17:15",
+        "Destination": "OLB"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1188": {
+        "Departure": "13:30",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_04": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 36,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:00",
+        "Destination": "BOJ"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5143": {
+        "Departure": "06:35",
+        "Destination": "NCE"
+      },
+      "5051": {
+        "Departure": "06:40",
+        "Destination": "NAP"
+      },
+      "5011": {
+        "Departure": "07:15",
+        "Destination": "PVK"
+      },
+      "5103": {
+        "Departure": "07:35",
+        "Destination": "VLC"
+      },
+      "5365": {
+        "Departure": "07:45",
+        "Destination": "PRN"
+      },
+      "5271": {
+        "Departure": "08:10",
+        "Destination": "CPH"
+      },
+      "5009": {
+        "Departure": "10:15",
+        "Destination": "CHQ"
+      },
+      "7334": {
+        "Departure": "10:35",
+        "Destination": "PMI"
+      },
+      "5123": {
+        "Departure": "11:30",
+        "Destination": "BCN"
+      },
+      "4992": {
+        "Departure": "12:00",
+        "Destination": "TLS"
+      },
+      "5003": {
+        "Departure": "12:05",
+        "Destination": "CFU"
+      },
+      "5263": {
+        "Departure": "12:30",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "12:30",
+        "Destination": "LGW"
+      },
+      "5333": {
+        "Departure": "12:45",
+        "Destination": "FNC"
+      },
+      "7946": {
+        "Departure": "12:55",
+        "Destination": "AMS"
+      },
+      "5055": {
+        "Departure": "13:00",
+        "Destination": "OLB"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:40",
+        "Destination": "SPU"
+      },
+      "5141": {
+        "Departure": "15:00",
+        "Destination": "BOD"
+      },
+      "7173": {
+        "Departure": "15:25",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "16:05",
+        "Destination": "NCE"
+      },
+      "5079": {
+        "Departure": "16:15",
+        "Destination": "FCO"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5183": {
+        "Departure": "18:20",
+        "Destination": "GVA"
+      },
+      "5153": {
+        "Departure": "18:25",
+        "Destination": "ORY"
+      },
+      "5187": {
+        "Departure": "18:35",
+        "Destination": "ZRH"
+      },
+      "5085": {
+        "Departure": "18:50",
+        "Destination": "VCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:50",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:10",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "4634": {
+        "Departure": "21:30",
+        "Destination": "CDG"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "8630": {
+        "Departure": "12:00",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "17:30",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "21:40",
+        "Destination": "EDI"
+      },
+      "2202": {
+        "Departure": "22:20",
+        "Destination": "MAN"
+      },
+      "2604": {
+        "Departure": "22:55",
+        "Destination": "LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "12:10",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_05": {
+    "Total flights": 42,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5187": {
+        "Departure": "06:00",
+        "Destination": "ZRH"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "06:05",
+        "Destination": "CPH"
+      },
+      "5105": {
+        "Departure": "06:20",
+        "Destination": "AGP"
+      },
+      "5281": {
+        "Departure": "06:20",
+        "Destination": "AMS"
+      },
+      "5181": {
+        "Departure": "07:00",
+        "Destination": "GVA"
+      },
+      "5007": {
+        "Departure": "07:15",
+        "Destination": "HER"
+      },
+      "5055": {
+        "Departure": "08:00",
+        "Destination": "OLB"
+      },
+      "5211": {
+        "Departure": "08:20",
+        "Destination": "PUY"
+      },
+      "5079": {
+        "Departure": "09:20",
+        "Destination": "FCO"
+      },
+      "5185": {
+        "Departure": "09:30",
+        "Destination": "BSL"
+      },
+      "1792": {
+        "Departure": "09:45",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:25",
+        "Destination": "CTA"
+      },
+      "5363": {
+        "Departure": "11:55",
+        "Destination": "RMF"
+      },
+      "5215": {
+        "Departure": "12:35",
+        "Destination": "SPU"
+      },
+      "5361": {
+        "Departure": "12:45",
+        "Destination": "TIV"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "8622": {
+        "Departure": "13:15",
+        "Destination": "LGW"
+      },
+      "5009": {
+        "Departure": "13:40",
+        "Destination": "CHQ"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5331": {
+        "Departure": "15:10",
+        "Destination": "OPO"
+      },
+      "7173": {
+        "Departure": "15:10",
+        "Destination": "BCN"
+      },
+      "5375": {
+        "Departure": "15:15",
+        "Destination": "QSR"
+      },
+      "5365": {
+        "Departure": "15:40",
+        "Destination": "PRN"
+      },
+      "5053": {
+        "Departure": "17:45",
+        "Destination": "NAP"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:15",
+        "Destination": "LGW"
+      },
+      "5143": {
+        "Departure": "18:20",
+        "Destination": "NCE"
+      },
+      "5189": {
+        "Departure": "18:45",
+        "Destination": "ZRH"
+      },
+      "7338": {
+        "Departure": "19:10",
+        "Destination": "PMI"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "2602": {
+        "Departure": "09:50",
+        "Destination": "LTN"
+      },
+      "6622": {
+        "Departure": "09:50",
+        "Destination": "BHX"
+      },
+      "2200": {
+        "Departure": "10:20",
+        "Destination": "MAN"
+      },
+      "8630": {
+        "Departure": "10:25",
+        "Destination": "LGW"
+      },
+      "3162": {
+        "Departure": "14:30",
+        "Destination": "GLA"
+      },
+      "2934": {
+        "Departure": "16:40",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:35",
+        "Destination": "EDI"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_06": {
+    "Total flights": 37,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "8624": {
+        "Departure": "06:00",
+        "Destination": "LGW"
+      },
+      "5051": {
+        "Departure": "06:20",
+        "Destination": "NAP"
+      },
+      "5281": {
+        "Departure": "06:30",
+        "Destination": "AMS"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5007": {
+        "Departure": "07:10",
+        "Destination": "HER"
+      },
+      "5367": {
+        "Departure": "07:35",
+        "Destination": "LCA"
+      },
+      "5005": {
+        "Departure": "07:45",
+        "Destination": "CFU"
+      },
+      "5373": {
+        "Departure": "07:45",
+        "Destination": "AYT"
+      },
+      "5085": {
+        "Departure": "08:20",
+        "Destination": "VCE"
+      },
+      "5213": {
+        "Departure": "09:25",
+        "Destination": "SPU"
+      },
+      "1792": {
+        "Departure": "09:40",
+        "Destination": "NCE"
+      },
+      "5261": {
+        "Departure": "10:40",
+        "Destination": "CPH"
+      },
+      "5365": {
+        "Departure": "11:15",
+        "Destination": "PRN"
+      },
+      "5211": {
+        "Departure": "13:30",
+        "Destination": "PUY"
+      },
+      "5215": {
+        "Departure": "13:35",
+        "Destination": "SPU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5019": {
+        "Departure": "14:30",
+        "Destination": "PMI"
+      },
+      "5223": {
+        "Departure": "14:40",
+        "Destination": "ZAD"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "15:35",
+        "Destination": "NCE"
+      },
+      "1924": {
+        "Departure": "16:15",
+        "Destination": "BOD"
+      },
+      "5027": {
+        "Departure": "17:05",
+        "Destination": "SKG"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "Destination": "OLB"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5065": {
+        "Departure": "18:30",
+        "Destination": "PSA"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5221": {
+        "Departure": "19:10",
+        "Destination": "RJK"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "21:10",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "22:25",
+        "Destination": "BRS"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_07": {
+    "Total flights": 35,
+    "easyJet Europe": {
+      "Total flights": 31,
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5261": {
+        "Departure": "06:10",
+        "Destination": "CPH"
+      },
+      "5007": {
+        "Departure": "06:20",
+        "Destination": "HER"
+      },
+      "5213": {
+        "Departure": "07:00",
+        "Destination": "SPU"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "Destination": "GVA"
+      },
+      "5013": {
+        "Departure": "07:20",
+        "Destination": "RHO"
+      },
+      "5009": {
+        "Departure": "07:35",
+        "Destination": "CHQ"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "5315": {
+        "Departure": "09:40",
+        "Destination": "ADB"
+      },
+      "7334": {
+        "Departure": "10:40",
+        "Destination": "PMI"
+      },
+      "5113": {
+        "Departure": "11:20",
+        "Destination": "TFS"
+      },
+      "5055": {
+        "Departure": "12:10",
+        "Destination": "OLB"
+      },
+      "5217": {
+        "Departure": "12:35",
+        "Destination": "DBV"
+      },
+      "5125": {
+        "Departure": "13:15",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "13:45",
+        "Destination": "PUY"
+      },
+      "5003": {
+        "Departure": "14:15",
+        "Destination": "CFU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5057": {
+        "Departure": "15:30",
+        "Destination": "CTA"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:45",
+        "Destination": "NAP"
+      },
+      "5103": {
+        "Departure": "15:45",
+        "Destination": "VLC"
+      },
+      "8626": {
+        "Departure": "17:50",
+        "Destination": "LGW"
+      },
+      "5263": {
+        "Departure": "18:00",
+        "Destination": "CPH"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5145": {
+        "Departure": "18:15",
+        "Destination": "NCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "7338": {
+        "Departure": "21:55",
+        "Destination": "PMI"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2604": {
+        "Departure": "11:25",
+        "Destination": "LTN"
+      },
+      "8632": {
+        "Departure": "16:40",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "21:25",
+        "Destination": "BHX"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_08_08": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5365": {
+        "Departure": "06:25",
+        "Destination": "PRN"
+      },
+      "5003": {
+        "Departure": "06:30",
+        "Destination": "CFU"
+      },
+      "5007": {
+        "Departure": "07:00",
+        "Destination": "HER"
+      },
+      "5269": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5367": {
+        "Departure": "07:45",
+        "Destination": "LCA"
+      },
+      "5221": {
+        "Departure": "08:20",
+        "Destination": "RJK"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "7334": {
+        "Departure": "10:30",
+        "Destination": "PMI"
+      },
+      "5189": {
+        "Departure": "11:15",
+        "Destination": "ZRH"
+      },
+      "5211": {
+        "Departure": "12:30",
+        "Destination": "PUY"
+      },
+      "8624": {
+        "Departure": "12:40",
+        "Destination": "LGW"
+      },
+      "5011": {
+        "Departure": "13:05",
+        "Destination": "PVK"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:20",
+        "Destination": "NAP"
+      },
+      "5055": {
+        "Departure": "15:30",
+        "Destination": "OLB"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "17:05",
+        "Destination": "NCE"
+      },
+      "5215": {
+        "Departure": "17:20",
+        "Destination": "SPU"
+      },
+      "5079": {
+        "Departure": "17:40",
+        "Destination": "FCO"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "Destination": "PSA"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:30",
+        "Destination": "CDG"
+      },
+      "4992": {
+        "Departure": "20:35",
+        "Destination": "TLS"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "3262": {
+        "Departure": "16:45",
+        "Destination": "EDI"
+      },
+      "2934": {
+        "Departure": "18:30",
+        "Destination": "BRS"
+      },
+      "2200": {
+        "Departure": "21:10",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 3,
+      "1188": {
+        "Departure": "08:25",
+        "Destination": "BSL"
+      },
+      "1590": {
+        "Departure": "19:15",
+        "Destination": "GVA"
+      },
+      "1190": {
+        "Departure": "22:00",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_09": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 33,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5331": {
+        "Departure": "06:10",
+        "Destination": "OPO"
+      },
+      "5361": {
+        "Departure": "06:10",
+        "Destination": "TIV"
+      },
+      "5027": {
+        "Departure": "06:55",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "8622": {
+        "Departure": "07:00",
+        "Destination": "LGW"
+      },
+      "5285": {
+        "Departure": "07:45",
+        "Destination": "AMS"
+      },
+      "5189": {
+        "Departure": "08:00",
+        "Destination": "ZRH"
+      },
+      "5223": {
+        "Departure": "08:20",
+        "Destination": "ZAD"
+      },
+      "5141": {
+        "Departure": "09:20",
+        "Destination": "BOD"
+      },
+      "5143": {
+        "Departure": "10:20",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:30",
+        "Destination": "CTA"
+      },
+      "5213": {
+        "Departure": "12:05",
+        "Destination": "SPU"
+      },
+      "5055": {
+        "Departure": "12:15",
+        "Destination": "OLB"
+      },
+      "5375": {
+        "Departure": "12:40",
+        "Destination": "QSR"
+      },
+      "5053": {
+        "Departure": "13:00",
+        "Destination": "NAP"
+      },
+      "5009": {
+        "Departure": "13:35",
+        "Destination": "CHQ"
+      },
+      "5079": {
+        "Departure": "14:05",
+        "Destination": "FCO"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:25",
+        "Destination": "SPU"
+      },
+      "7173": {
+        "Departure": "15:15",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "15:50",
+        "Destination": "NCE"
+      },
+      "5121": {
+        "Departure": "16:05",
+        "Destination": "PMI"
+      },
+      "5211": {
+        "Departure": "17:25",
+        "Destination": "PUY"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5187": {
+        "Departure": "19:10",
+        "Destination": "ZRH"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:30",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "20:50",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "11:35",
+        "Destination": "BHX"
+      },
+      "2934": {
+        "Departure": "16:35",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:45",
+        "Destination": "EDI"
+      },
+      "3162": {
+        "Departure": "17:55",
+        "Destination": "GLA"
+      },
+      "2604": {
+        "Departure": "21:30",
+        "Destination": "LTN"
+      },
+      "2202": {
+        "Departure": "22:30",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_08_10": {
+    "Total flights": 31,
+    "easyJet Europe": {
+      "Total flights": 30,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "06:00",
+        "Destination": "PUY"
+      },
+      "5119": {
+        "Departure": "06:05",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:15",
+        "Destination": "BOJ"
+      },
+      "5213": {
+        "Departure": "06:25",
+        "Destination": "SPU"
+      },
+      "8622": {
+        "Departure": "06:45",
+        "Destination": "LGW"
+      },
+      "5261": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5027": {
+        "Departure": "07:05",
+        "Destination": "SKG"
+      },
+      "5013": {
+        "Departure": "07:45",
+        "Destination": "RHO"
+      },
+      "5053": {
+        "Departure": "07:45",
+        "Destination": "NAP"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "4632": {
+        "Departure": "09:25",
+        "Destination": "CDG"
+      },
+      "5223": {
+        "Departure": "10:20",
+        "Destination": "ZAD"
+      },
+      "7334": {
+        "Departure": "10:45",
+        "Destination": "PMI"
+      },
+      "7173": {
+        "Departure": "11:10",
+        "Destination": "BCN"
+      },
+      "5113": {
+        "Departure": "11:15",
+        "Destination": "TFS"
+      },
+      "5065": {
+        "Departure": "11:30",
+        "Destination": "PSA"
+      },
+      "5221": {
+        "Departure": "12:50",
+        "Destination": "RJK"
+      },
+      "5367": {
+        "Departure": "13:45",
+        "Destination": "LCA"
+      },
+      "5007": {
+        "Departure": "14:25",
+        "Destination": "HER"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5373": {
+        "Departure": "14:50",
+        "Destination": "AYT"
+      },
+      "5315": {
+        "Departure": "15:00",
+        "Destination": "ADB"
+      },
+      "5365": {
+        "Departure": "15:20",
+        "Destination": "PRN"
+      },
+      "8624": {
+        "Departure": "15:55",
+        "Destination": "LGW"
+      },
+      "5217": {
+        "Departure": "16:05",
+        "Destination": "DBV"
+      },
+      "5005": {
+        "Departure": "17:05",
+        "Destination": "CFU"
+      },
+      "5055": {
+        "Departure": "17:15",
+        "Destination": "OLB"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 0
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1188": {
+        "Departure": "13:30",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_11": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5353": {
+        "Departure": "06:00",
+        "Destination": "BOJ"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5143": {
+        "Departure": "06:35",
+        "Destination": "NCE"
+      },
+      "5051": {
+        "Departure": "06:40",
+        "Destination": "NAP"
+      },
+      "5011": {
+        "Departure": "07:15",
+        "Destination": "PVK"
+      },
+      "5103": {
+        "Departure": "07:35",
+        "Destination": "VLC"
+      },
+      "5365": {
+        "Departure": "07:45",
+        "Destination": "PRN"
+      },
+      "5271": {
+        "Departure": "08:10",
+        "Destination": "CPH"
+      },
+      "5009": {
+        "Departure": "10:15",
+        "Destination": "CHQ"
+      },
+      "7334": {
+        "Departure": "10:35",
+        "Destination": "PMI"
+      },
+      "5123": {
+        "Departure": "11:30",
+        "Destination": "BCN"
+      },
+      "4992": {
+        "Departure": "12:00",
+        "Destination": "TLS"
+      },
+      "5003": {
+        "Departure": "12:05",
+        "Destination": "CFU"
+      },
+      "8622": {
+        "Departure": "12:30",
+        "Destination": "LGW"
+      },
+      "5333": {
+        "Departure": "12:45",
+        "Destination": "FNC"
+      },
+      "7946": {
+        "Departure": "12:55",
+        "Destination": "AMS"
+      },
+      "5055": {
+        "Departure": "13:00",
+        "Destination": "OLB"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5215": {
+        "Departure": "14:40",
+        "Destination": "SPU"
+      },
+      "5141": {
+        "Departure": "15:00",
+        "Destination": "BOD"
+      },
+      "7173": {
+        "Departure": "15:25",
+        "Destination": "BCN"
+      },
+      "5145": {
+        "Departure": "16:05",
+        "Destination": "NCE"
+      },
+      "5079": {
+        "Departure": "16:15",
+        "Destination": "FCO"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5183": {
+        "Departure": "18:20",
+        "Destination": "GVA"
+      },
+      "5153": {
+        "Departure": "18:25",
+        "Destination": "ORY"
+      },
+      "5187": {
+        "Departure": "18:35",
+        "Destination": "ZRH"
+      },
+      "5085": {
+        "Departure": "18:50",
+        "Destination": "VCE"
+      },
+      "5267": {
+        "Departure": "19:50",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:10",
+        "Destination": "PMI"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "4634": {
+        "Departure": "21:30",
+        "Destination": "CDG"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 5,
+      "8630": {
+        "Departure": "12:00",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "17:30",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "21:40",
+        "Destination": "EDI"
+      },
+      "2202": {
+        "Departure": "22:20",
+        "Destination": "MAN"
+      },
+      "2604": {
+        "Departure": "22:55",
+        "Destination": "LTN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "12:10",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_12": {
+    "Total flights": 40,
+    "easyJet Europe": {
+      "Total flights": 32,
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5187": {
+        "Departure": "06:00",
+        "Destination": "ZRH"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5261": {
+        "Departure": "06:05",
+        "Destination": "CPH"
+      },
+      "5105": {
+        "Departure": "06:20",
+        "Destination": "AGP"
+      },
+      "5281": {
+        "Departure": "06:20",
+        "Destination": "AMS"
+      },
+      "5181": {
+        "Departure": "07:00",
+        "Destination": "GVA"
+      },
+      "5007": {
+        "Departure": "07:15",
+        "Destination": "HER"
+      },
+      "5055": {
+        "Departure": "08:00",
+        "Destination": "OLB"
+      },
+      "5063": {
+        "Departure": "08:20",
+        "Destination": "LIN"
+      },
+      "5079": {
+        "Departure": "09:20",
+        "Destination": "FCO"
+      },
+      "5185": {
+        "Departure": "09:30",
+        "Destination": "BSL"
+      },
+      "1792": {
+        "Departure": "09:45",
+        "Destination": "NCE"
+      },
+      "5077": {
+        "Departure": "10:25",
+        "Destination": "CTA"
+      },
+      "5363": {
+        "Departure": "11:55",
+        "Destination": "RMF"
+      },
+      "5215": {
+        "Departure": "12:35",
+        "Destination": "SPU"
+      },
+      "5361": {
+        "Departure": "12:45",
+        "Destination": "TIV"
+      },
+      "8622": {
+        "Departure": "13:15",
+        "Destination": "LGW"
+      },
+      "5009": {
+        "Departure": "13:40",
+        "Destination": "CHQ"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5331": {
+        "Departure": "15:10",
+        "Destination": "OPO"
+      },
+      "7173": {
+        "Departure": "15:10",
+        "Destination": "BCN"
+      },
+      "5375": {
+        "Departure": "15:15",
+        "Destination": "QSR"
+      },
+      "5365": {
+        "Departure": "15:40",
+        "Destination": "PRN"
+      },
+      "5053": {
+        "Departure": "17:45",
+        "Destination": "NAP"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:15",
+        "Destination": "LGW"
+      },
+      "5189": {
+        "Departure": "18:45",
+        "Destination": "ZRH"
+      },
+      "7338": {
+        "Departure": "19:10",
+        "Destination": "PMI"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 7,
+      "2602": {
+        "Departure": "09:50",
+        "Destination": "LTN"
+      },
+      "6622": {
+        "Departure": "09:50",
+        "Destination": "BHX"
+      },
+      "2200": {
+        "Departure": "10:20",
+        "Destination": "MAN"
+      },
+      "8630": {
+        "Departure": "10:25",
+        "Destination": "LGW"
+      },
+      "3162": {
+        "Departure": "14:30",
+        "Destination": "GLA"
+      },
+      "2934": {
+        "Departure": "16:40",
+        "Destination": "BRS"
+      },
+      "3262": {
+        "Departure": "17:35",
+        "Destination": "EDI"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_13": {
+    "Total flights": 37,
+    "easyJet Europe": {
+      "Total flights": 34,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "8624": {
+        "Departure": "06:00",
+        "Destination": "LGW"
+      },
+      "5051": {
+        "Departure": "06:20",
+        "Destination": "NAP"
+      },
+      "5281": {
+        "Departure": "06:30",
+        "Destination": "AMS"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5007": {
+        "Departure": "07:10",
+        "Destination": "HER"
+      },
+      "5367": {
+        "Departure": "07:35",
+        "Destination": "LCA"
+      },
+      "5005": {
+        "Departure": "07:45",
+        "Destination": "CFU"
+      },
+      "5373": {
+        "Departure": "07:45",
+        "Destination": "AYT"
+      },
+      "5063": {
+        "Departure": "08:20",
+        "Destination": "LIN"
+      },
+      "5213": {
+        "Departure": "09:25",
+        "Destination": "SPU"
+      },
+      "1792": {
+        "Departure": "09:40",
+        "Destination": "NCE"
+      },
+      "5261": {
+        "Departure": "10:40",
+        "Destination": "CPH"
+      },
+      "5365": {
+        "Departure": "11:15",
+        "Destination": "PRN"
+      },
+      "5211": {
+        "Departure": "13:30",
+        "Destination": "PUY"
+      },
+      "5215": {
+        "Departure": "13:35",
+        "Destination": "SPU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5019": {
+        "Departure": "14:30",
+        "Destination": "PMI"
+      },
+      "5223": {
+        "Departure": "14:40",
+        "Destination": "ZAD"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "15:35",
+        "Destination": "NCE"
+      },
+      "1924": {
+        "Departure": "16:15",
+        "Destination": "BOD"
+      },
+      "5027": {
+        "Departure": "17:05",
+        "Destination": "SKG"
+      },
+      "5055": {
+        "Departure": "17:35",
+        "Destination": "OLB"
+      },
+      "8626": {
+        "Departure": "17:55",
+        "Destination": "LGW"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5065": {
+        "Departure": "18:30",
+        "Destination": "PSA"
+      },
+      "5183": {
+        "Departure": "18:35",
+        "Destination": "GVA"
+      },
+      "5221": {
+        "Departure": "19:10",
+        "Destination": "RJK"
+      },
+      "5267": {
+        "Departure": "19:40",
+        "Destination": "CPH"
+      },
+      "7336": {
+        "Departure": "20:00",
+        "Destination": "PMI"
+      },
+      "4634": {
+        "Departure": "21:10",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 2,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2934": {
+        "Departure": "22:25",
+        "Destination": "BRS"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 1,
+      "1190": {
+        "Departure": "21:45",
+        "Destination": "BSL"
+      }
+    }
+  }
+,
+  "2024_08_14": {
+    "Total flights": 36,
+    "easyJet Europe": {
+      "Total flights": 32,
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5185": {
+        "Departure": "06:10",
+        "Destination": "BSL"
+      },
+      "5261": {
+        "Departure": "06:10",
+        "Destination": "CPH"
+      },
+      "5007": {
+        "Departure": "06:20",
+        "Destination": "HER"
+      },
+      "9221": {
+        "Departure": "06:45",
+        "Destination": "RJK"
+      },
+      "5213": {
+        "Departure": "07:00",
+        "Destination": "SPU"
+      },
+      "5181": {
+        "Departure": "07:05",
+        "Destination": "GVA"
+      },
+      "5013": {
+        "Departure": "07:20",
+        "Destination": "RHO"
+      },
+      "5009": {
+        "Departure": "07:35",
+        "Destination": "CHQ"
+      },
+      "5063": {
+        "Departure": "08:20",
+        "Destination": "LIN"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "5315": {
+        "Departure": "09:40",
+        "Destination": "ADB"
+      },
+      "7334": {
+        "Departure": "10:40",
+        "Destination": "PMI"
+      },
+      "5113": {
+        "Departure": "11:20",
+        "Destination": "TFS"
+      },
+      "5055": {
+        "Departure": "12:10",
+        "Destination": "OLB"
+      },
+      "5217": {
+        "Departure": "12:35",
+        "Destination": "DBV"
+      },
+      "5125": {
+        "Departure": "13:15",
+        "Destination": "AGP"
+      },
+      "5211": {
+        "Departure": "13:45",
+        "Destination": "PUY"
+      },
+      "5003": {
+        "Departure": "14:15",
+        "Destination": "CFU"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "5057": {
+        "Departure": "15:30",
+        "Destination": "CTA"
+      },
+      "7173": {
+        "Departure": "15:30",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:45",
+        "Destination": "NAP"
+      },
+      "5103": {
+        "Departure": "15:45",
+        "Destination": "VLC"
+      },
+      "8626": {
+        "Departure": "17:50",
+        "Destination": "LGW"
+      },
+      "5263": {
+        "Departure": "18:00",
+        "Destination": "CPH"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "5145": {
+        "Departure": "18:15",
+        "Destination": "NCE"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "4634": {
+        "Departure": "20:40",
+        "Destination": "CDG"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      },
+      "7338": {
+        "Departure": "21:55",
+        "Destination": "PMI"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "2604": {
+        "Departure": "11:25",
+        "Destination": "LTN"
+      },
+      "8632": {
+        "Departure": "16:40",
+        "Destination": "LGW"
+      },
+      "6622": {
+        "Departure": "21:25",
+        "Destination": "BHX"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 0
+    }
+  }
+,
+  "2024_08_15": {
+    "Total flights": 38,
+    "easyJet Europe": {
+      "Total flights": 32,
+      "5105": {
+        "Departure": "06:00",
+        "Destination": "AGP"
+      },
+      "5119": {
+        "Departure": "06:00",
+        "Destination": "PMI"
+      },
+      "5027": {
+        "Departure": "06:05",
+        "Destination": "SKG"
+      },
+      "5365": {
+        "Departure": "06:25",
+        "Destination": "PRN"
+      },
+      "5003": {
+        "Departure": "06:30",
+        "Destination": "CFU"
+      },
+      "5007": {
+        "Departure": "07:00",
+        "Destination": "HER"
+      },
+      "5269": {
+        "Departure": "07:00",
+        "Destination": "CPH"
+      },
+      "5333": {
+        "Departure": "07:00",
+        "Destination": "FNC"
+      },
+      "5367": {
+        "Departure": "07:45",
+        "Destination": "LCA"
+      },
+      "5063": {
+        "Departure": "08:20",
+        "Destination": "LIN"
+      },
+      "5143": {
+        "Departure": "09:20",
+        "Destination": "NCE"
+      },
+      "7334": {
+        "Departure": "10:30",
+        "Destination": "PMI"
+      },
+      "5189": {
+        "Departure": "11:15",
+        "Destination": "ZRH"
+      },
+      "5211": {
+        "Departure": "12:30",
+        "Destination": "PUY"
+      },
+      "8624": {
+        "Departure": "12:40",
+        "Destination": "LGW"
+      },
+      "5011": {
+        "Departure": "13:05",
+        "Destination": "PVK"
+      },
+      "5085": {
+        "Departure": "13:15",
+        "Destination": "VCE"
+      },
+      "5071": {
+        "Departure": "14:25",
+        "Destination": "LIN"
+      },
+      "7173": {
+        "Departure": "15:05",
+        "Destination": "BCN"
+      },
+      "5053": {
+        "Departure": "15:20",
+        "Destination": "NAP"
+      },
+      "5055": {
+        "Departure": "15:30",
+        "Destination": "OLB"
+      },
+      "5353": {
+        "Departure": "15:30",
+        "Destination": "BOJ"
+      },
+      "5145": {
+        "Departure": "17:05",
+        "Destination": "NCE"
+      },
+      "5215": {
+        "Departure": "17:20",
+        "Destination": "SPU"
+      },
+      "5079": {
+        "Departure": "17:40",
+        "Destination": "FCO"
+      },
+      "5153": {
+        "Departure": "18:05",
+        "Destination": "ORY"
+      },
+      "8626": {
+        "Departure": "18:10",
+        "Destination": "LGW"
+      },
+      "5065": {
+        "Departure": "18:20",
+        "Destination": "PSA"
+      },
+      "5287": {
+        "Departure": "19:30",
+        "Destination": "AMS"
+      },
+      "4634": {
+        "Departure": "20:30",
+        "Destination": "CDG"
+      },
+      "4992": {
+        "Departure": "20:35",
+        "Destination": "TLS"
+      },
+      "5073": {
+        "Departure": "21:10",
+        "Destination": "LIN"
+      }
+    },
+    "easyJet UK": {
+      "Total flights": 4,
+      "8630": {
+        "Departure": "10:20",
+        "Destination": "LGW"
+      },
+      "3262": {
+        "Departure": "16:45",
+        "Destination": "EDI"
+      },
+      "2934": {
+        "Departure": "18:30",
+        "Destination": "BRS"
+      },
+      "2200": {
+        "Departure": "21:10",
+        "Destination": "MAN"
+      }
+    },
+    "easyJet Switzerland": {
+      "Total flights": 2,
+      "1188": {
+        "Departure": "08:25",
+        "Destination": "BSL"
+      },
+      "1590": {
+        "Departure": "19:15",
+        "Destination": "GVA"
+      }
+    }
+  }
 }
